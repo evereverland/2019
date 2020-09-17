@@ -1,0 +1,325 @@
+<!doctype html>
+<html lang = "en" >
+<head>
+<meta charset = "utf-8" >
+<meta name = "viewport" content= "width=device-width, initial-scale=1" >
+<meta name = "description" content = "Initial hacks on the Shoeboxed API" >
+<meta name = "keywords" content = "JavaScript,GitHub,FOSS" >
+<meta name = "date" content = "2019-09-21" >
+<meta name = "version" content = "0.00.0" >
+<title></title>
+<style>
+
+	* { box-sizing: border-box; }
+
+	:root { font: 12pt monospace; --mnu-width: 22rem; --screen-width: calc( 100vw ); --headerHeight: 6rem; }
+
+	html { height: 100%; }
+
+	body { margin: 0 auto; max-width: 800px; padding: 0 0.5rem; }
+
+	a { color: crimson; text-decoration: none; }
+	a:hover, a:focus, a:active { background-color: yellow; color: #aaa; text-decoration: underline }
+
+	button, input[type=button] { background-color: #ddd; border: none; color: #322; cursor: pointer; padding: 3px 5px; }
+	button:hover { background: #ccc; color: #fff }
+
+	/*
+	main { border: 0px; height: 100%; left: var( --mnu-width ); margin: 0;
+		padding: 0 1rem; position: absolute; width: calc( 100% - var( --mnu-width ) );  }
+
+	#navMenu { background-color: #eee; left: 0; margin: 0; padding: 0 1rem;
+		position: absolute; top: 0; width: var( --mnu-width ); }
+	*/
+
+</style>
+</head>
+<body>
+
+	<nav id="navMenu" >
+
+		<div id="divTitle" ></div>
+
+		<p>
+			Get codes from <a href="https://app.shoeboxed.com/member/v2/settings#api" target="_blank">Shoeboxed</a>. Numbers saved between sessions in local storage.
+		</p>
+
+		<p>
+			Id:<br>
+			<input id=inpId onchange=setStorageId(); style=width:100%; >
+		</p>
+		<p>
+			Secret<br>
+			<input id=inpSecret onchange=setStorageSecret(); style=width:100%; >
+		</p>
+		<p>
+			<button id=but onclick=restIt(); >use codes to create rest api request</button>
+
+			<button id=but onclick=fetchIt(); >fetch alternative- not working yet</button>
+		</p>
+
+		<div id=divGetCredentials ><p><i>Link will appear here</i></p></div>
+		<p>
+			credentials <span id=spnCredentials ></span>:<br>
+			<input id=inpCredentials onchange=setStorageCredentials(); style=width:100%; >
+		</p>
+		<p>
+
+			<button onclick=curlUser() >curl user</button>
+
+			<button onclick=fetchUser() >fetch user</button>
+
+		</p>
+
+		<p>access token <span id=spnAccessToken ></span>:<br>
+			<input id=inpAccessToken onchange=setStorageAccessToken(); style=width:100%; >
+		</p>
+
+
+
+
+		<p>
+			<button onclick=curlDocuments(); >curl documents</button>
+
+		</p>
+	</nav>
+
+	<main>
+
+		<div id="divContents" ></div>
+
+		<div id=divResults ></div>
+
+	</main>
+
+
+<script>
+
+const urlSourceCode = "https://gitlab.com/evereverland.gitlab.io/blob/master/sandbox/shoeboxed-api/shoeboxed-api.html";
+const urlSourceCodeIcon = "https://evereverland.gitlab.io/images/gitlab-solid-red.svg";
+
+init();
+
+function init() {
+
+	divTitle.innerHTML = getTitle();
+
+	inpId.value = localStorage.getItem( 'sbId' );
+
+	inpSecret.value = localStorage.getItem( 'sbSecret' );
+
+	inpCredentials.value = localStorage.getItem( 'sbCredentials' );
+
+	inpAccessToken.value = localStorage.getItem( 'sbAccessToken' );
+
+	//divContents.innerHTML += `${ ( new Date ) }<p>lorem ipsum, quia dolor sit, amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt, ut labore et dolore magnam aliquam quaerat voluptatem. ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? quis autem vel eum iure reprehenderit, qui in ea voluptate velit esse, quam nihil molestiae consequatur, vel illum, qui dolorem eum fugiat, quo voluptas nulla pariatur?</p>`;
+
+	getSearch();
+
+}
+
+
+function setStorageId() {
+
+	id = inpId.value;
+	console.log( 'id', id );
+
+	localStorage.setItem('sbId', id );
+
+}
+
+
+function setStorageSecret() {
+
+	secret = inpSecret.value;
+	console.log( 'secret', secret );
+
+	localStorage.setItem('sbSecret', secret );
+
+}
+
+
+
+function setStorageCredentials() {
+
+	credentials = inpCredentials.value;
+	console.log( 'credentials', credentials );
+
+	spnCredentials.innerHTML = ( new Date() ).toISOString();
+
+	localStorage.setItem('sbCredentials', credentials );
+
+}
+
+
+function setStorageAccessToken() {
+
+	accessToken = inpAccessToken.value;
+	console.log( 'AccessToken', accessToken );
+
+	spnAccessToken.innerHTML = ( new Date() ).toISOString();
+
+	localStorage.setItem('sbAccessToken', accessToken );
+
+}
+
+
+function restIt() {
+
+	const id = localStorage.getItem( 'sbId' );
+	const redirect = "https://theo-armour.github.io/sandbox/shoeboxed-api/shoeboxed-api.html";
+
+	link =
+	`
+		https://id.shoeboxed.com/oauth/authorize?
+		client_id=${ id }&response_type=code&scope=all&redirect_uri=https://evereverland.gitlab.io/sandbox/shoeboxed-api/shoeboxed-api.html&state=01234567888
+	`;
+
+	divGetCredentials.innerHTML =
+	`<p>
+		<a href="${ link }"" >${ link }</a>
+	</p>
+	`;
+
+}
+
+
+
+// looks like not possible
+
+function zzfetchIt(){
+
+	const id = localStorage.getItem( 'sbId' );
+
+	fetch( 'https://id.shoeboxed.com/oauth/authorize', {
+		method: 'POST',
+		mode: "no-cors",
+		body: `client_id=${ id }&response_type=code&scope=all&redirect_uri=https://theo-armour.github.io/sandbox/showbarks-api/showbarks-api.html&state=01234567888`,
+		headers: {
+			'Content-Type': 'application/x-www-form-urlencoded'
+		}
+	});
+
+}
+
+
+function fetchIt(){
+
+	const id = localStorage.getItem( 'sbId' );
+
+	fetch(
+		`https://id.shoeboxed.com/oauth/authorize?client_id=${ id }&response_type=code&scope=all&redirect_uri=https://theo-armour.github.io/sandbox/showbarks-api/showbarks-api.html&state=01234567888`
+
+	)
+	.then( response => response.text() )
+	.then( text => console.log( 'text', text ) );
+
+}
+
+
+
+
+function getSearch( ) {
+
+	console.log( 'search', location.search );
+
+	codeArr = location.search.match( /code=(.*?)&/ );
+
+	code = codeArr ? codeArr[ 1 ] : inpCredentials.value;
+
+	console.log( 'code', code );
+
+	inpCredentials.value = code;
+
+	setStorageCredentials();
+
+	id = inpId.value;
+
+	secret = inpSecret.value;
+
+	curl =
+	`
+curl -v -XPOST https://id.shoeboxed.com/oauth/token \
+-d code=${ code } \
+-d grant_type=authorization_code \
+--data-urlencode redirect_uri='https://theo-armour.github.io/sandbox/shoeboxed-api/shoeboxed-api.html' \
+-u ${ id }:${ secret }
+	`
+
+	divContents.innerHTML +=
+	`<p>
+		${ curl }
+	</p>
+	`;
+}
+
+
+function curlUser() {
+
+	accessToken = inpAccessToken.value;
+
+	divContents.innerHTML +=
+	`
+		curl https://api.shoeboxed.com/v2/user -X GET -H "Authorization: Bearer ${ accessToken }" -o "d://output.txt"
+	`;
+
+}
+
+
+
+function fetchUser() {
+
+	const urlCORS = "" //'https://cors-anywhere.herokuapp.com/';
+	url = "https://api.shoeboxed.com/v2/user";
+
+	accessToken = "08f91909-7833-4f7a-bd21-2ba74b8909b2"
+	fetch( new Request( urlCORS + url, {
+		mode: "no-cors",
+		headers: { "Authorization": "Bearer 63863a33-17c1-455e-b453-794e9559f6c2" }
+
+	} ) )
+
+	.then( response => response.text() )
+	.then( text => divResults.innerHTML = text );
+
+}
+
+
+
+function curlDocuments() {
+
+accessToken = inpAccessToken.value;
+
+divContents.innerHTML +=
+`
+	curl https://api.shoeboxed.com/v2/accounts/1429733747/documents -X GET -H "Authorization: Bearer ${ accessToken }"
+`;
+
+}
+
+
+function getTitle() {
+
+	document.title = document.title ? document.title : location.href.split( '/' ).pop().slice( 0, - 5 ).replace( /-/g, ' ' );
+	const version = document.head.querySelector( "[ name=version ]" ).content;
+	const description = document.head.querySelector( "[ name=description ]" ).content;
+
+	const htm =
+	`
+		<h2>
+			<a href=${ urlSourceCode } target=_top title="Source code on GitHub" >
+				<img src=${ urlSourceCodeIcon } height=18 style=opacity:0.5; >
+			</a>
+			<a href="" title="Click to reload this page" >${ document.title } ${ version }</a>
+		</h2>
+
+		<p>${ description }</p>
+	`;
+
+	return htm;
+
+}
+
+</script>
+</body>
+</html>

@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Your exit from the afterlife you have not yet been to or whatever">
+	<meta name="keywords" content="JavaScript,GitHub,FOSS">
+	<meta name="date" content="2019-09-26">
+	<meta name="version" content="0.0.0">
+	<title>EverEverLand</title>
+	<style>
+		* {
+			box-sizing: border-box;
+		}
+
+		:root {
+			--mnu-width: 22rem;
+			--screen-width: calc(100vw);
+			--headerHeight: 6rem;
+		}
+
+		html {
+			height: 100%;
+		}
+
+		body {
+			font: 12pt monospace;
+			margin: 0 auto;
+			max-width: 800px;
+			padding: 0 0.5rem;
+		}
+
+		a {
+			color: crimson;
+			text-decoration: none;
+		}
+
+		a:hover,
+		a:focus,
+		a:active {
+			background-color: yellow;
+			color: #aaa;
+			text-decoration: underline
+		}
+
+		button,
+		input[type=button] {
+			background-color: #ddd;
+			border: none;
+			color: #322;
+			cursor: pointer;
+			padding: 3px 5px;
+		}
+
+		button:hover {
+			background: #ccc;
+			color: #fff
+		}
+
+		main {
+			border: 0px;
+			height: 100%;
+			left: var(--mnu-width);
+			margin: 0;
+			padding: 0 1rem;
+			position: absolute;
+			width: calc(100% - var(--mnu-width));
+		}
+
+		summary {
+			font-weight: bold;
+		}
+
+		#divContents {
+			margin: 0 auto;
+			max-width: 40rem;
+		}
+
+		#navMenu {
+			background-color: #eee;
+			height: 100%;
+			left: 0;
+			margin: 0;
+			overflow: auto;
+			padding: 0 1rem;
+			position: fixed;
+			transition: left 0.5s;
+			top: 0;
+			width: var(--mnu-width);
+			z-index: 10;
+		}
+
+		#expandButton {
+			height: 32px;
+			position: absolute;
+			left: var(--mnu-width);
+			transition: left 0.5s;
+			width: 32px;
+			z-index: 1;
+		}
+
+		#expandButton.collapsed {
+			left: 0;
+		}
+
+		#navMenu.collapsed {
+			left: calc(var(--mnu-width) * -1);
+			padding: 0;
+		}
+
+		#main.collapsed {
+			left: 0;
+			width: 100%;
+		}
+
+		@media all and (max-width: 640px) {
+
+			#main {
+				left: 0;
+				padding: 0;
+				width: 100%;
+			}
+
+			#expandButton {
+				bottom: 1rem;
+			}
+
+		}
+
+
+		@media all and (max-height: 640px) {
+
+			#main {
+				left: 0;
+				padding: 0rem;
+				width: 100%;
+			}
+
+			#expandButton {
+				bottom: 1rem;
+			}
+
+		}
+
+	</style>
+</head>
+
+<body>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
+	<script src="js/v-0-00/fgla-files-gitlab-api/fgla-files-gitlab-api-01.js"></script>
+	<script src="js/v-0-00/foh-file-open-hash/foh-files-open-hash-00.js"></script>
+
+
+	<button id="expandButton" onclick="toggleNavPanel();">☰</button>
+
+	<nav id="navMenu">
+
+		<div id="divTitle"></div>
+
+		<div id=divMenu></div>
+
+		<div id="FOHdivMessges"></div>
+
+		<h1 onclick="navPanel.scrollTop=0;" style="color:#888; cursor:pointer; text-align:center;"
+			title="go to top of menu">
+			❦
+		</h1>
+
+	</nav>
+
+	<main id=main>
+
+		<div id="divContents"></div>
+
+	</main>
+
+
+	<script>
+		const urlSourceCode = "https://gitlab.com/evereverland/evereverland.gitlab.io/blob/master/public/";
+		const urlSourceCodeIcon = "https://evereverland.gitlab.io/images/gitlab-solid-red.svg";
+
+
+		init();
+
+
+		function init() {
+
+			divTitle.innerHTML = getTitle();
+			FOH.target = divContents;
+
+			divMenu.innerHTML = FGA.getMenuFilesGitlabApi();
+
+			FGA.fetchTree( FGA.pathRepo );
+
+			window.addEventListener( 'hashchange', FOH.onHashChange, false );
+			window.addEventListener( 'hashchange', FGA.onHashChange, false );
+
+			if ( window.innerWidth < 640 || window.innerHeight < 640 ) {
+				toggleNavPanel();
+			}
+
+			FOH.onHashChange();
+
+		}
+
+
+
+		function getTitle() {
+
+			const version = document.head.querySelector( "[ name=version ]" ).content;
+			const description = document.head.querySelector( "[ name=description ]" ).content;
+
+			const htm =
+				`
+				<h2>
+					<a href=${ urlSourceCode} target=_top title="Source code on GitLab" >
+						<img src=${ urlSourceCodeIcon} height=18 style=opacity:0.5; >
+					</a>
+
+					<a href="" title="Click to reload this page" >${ document.title} ${version}</a>
+				</h2>
+
+				<p>${ description}</p>
+			`;
+
+			return htm;
+
+		}
+
+
+		function toggleNavPanel() { // move to COR??
+
+			expandButton.classList.toggle( 'collapsed' );
+			navMenu.classList.toggle( 'collapsed' );
+			main.classList.toggle( 'collapsed' );
+
+		}
+		
+	</script>
+</body>
+
+</html>

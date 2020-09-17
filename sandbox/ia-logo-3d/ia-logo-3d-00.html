@@ -1,0 +1,311 @@
+<!doctype html>
+<html lang="en" >
+<head>
+<meta charset="utf-8" >
+<meta name="viewport" content = "width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0" >
+<meta name=description content="Real-time interactive 3D graphics in your browser using the WebGL and the Three.js JavaScript library" >
+<meta name=keywords content="Three.js,WebGL,JavaScript,GitHub,FOSS,3D,STEM" >
+<meta name = "date" content = "2019-09-01" >
+<title></title>
+<style>
+	/* Copyright 2019 pushMe pullYou authors. MIT License */
+
+	* { box-sizing: border-box; }
+
+	body { font: 11pt monospace; margin: 0; overflow: hidden; }
+	a { color: crimson; text-decoration: none; }
+	a:hover, a:focus { background-color: yellow; color: #aaa; text-decoration: underline }
+
+	button { background-color: #ddd; border: none; color: #322; cursor: pointer; padding: 3px 5px; }
+	button:hover { background: #ccc; color: #fff }
+
+	input[ type = range ] { -webkit-appearance: none; -moz-appearance: none; background-color: #ddd; width: 100%; }
+	input[ type = range ]::-moz-range-thumb { background-color: #888; border-radius: 0; width: 10px; }
+	input[ type = range ]::-webkit-slider-thumb { -webkit-appearance: none; background-color: #888; height: 20px; width: 10px; }
+
+	#navMenu { margin: 0 20px; max-width: 15rem; position: absolute; }
+
+</style>
+</head>
+<body>
+<script src = "https://cdn.jsdelivr.net/gh/mrdoob/three.js@r108/build/three.min.js" ></script>
+<script src = "https://cdn.jsdelivr.net/gh/mrdoob/three.js@r108/examples/js/controls/TrackballControls.js" ></script>
+
+	<nav id = "navMenu" >
+
+		<div id = "divTitle" ></div>
+
+		<p>
+			• Rotate|Zoom|Pan => 1|2|3 fingers/buttons<br>
+			• Rotation => spacebar<br>
+		</p>
+
+
+		<p>
+			<button onclick="sceneRotation = sceneRotation === 1 ? 0 : 1;" >rotation</button>
+		</p>
+
+		<p>
+			<input type="range" id="inpSpeed" oninput="sceneRotation=0.05* this.value;" />
+		</p>
+
+
+		<p>
+			<input type="range" oninput="material.opacity=0.01 * this.value;" value=85 />
+		</p>
+		<p>
+			<button onclick="drawTemples();" >push me</button>
+		</p>
+		<div id = "divLog" ></div>
+
+	</nav>
+
+<script>
+
+let temple;
+const material = new THREE.MeshNormalMaterial( { opacity: 0.85, transparent: true } );
+
+const urlSourceCode = "https://gitlab.com/evereverland/pages/tree/master/public/ia-logo-3d";
+
+let sceneRotation = 1;
+let renderer, camera, controls, scene;
+
+init();
+animate();
+
+function init() {
+
+	divTitle.innerHTML = getTitle();
+
+	renderer = new THREE.WebGLRenderer( { alpha: 1, antialias: true } );
+	renderer.setPixelRatio( window.devicePixelRatio );
+	renderer.setSize( window.innerWidth, window.innerHeight );
+	document.body.appendChild( renderer.domElement );
+
+	camera = new THREE.PerspectiveCamera( 40, window.innerWidth / window.innerHeight, 1, 1000 );
+	camera.position.set( - 100, - 100, 100 );
+	camera.up.set( 0, 0, 1 );
+
+	controls = new THREE.TrackballControls( camera, renderer.domElement );
+	controls.rotateSpeed = 4;
+
+	scene = new THREE.Scene();
+
+	window.addEventListener( 'resize', onWindowResize, false );
+	window.addEventListener( 'orientationchange', onWindowResize, false );
+	window.addEventListener( 'keyup', () => sceneRotation = 0, false );
+	renderer.domElement.addEventListener( 'click', () => sceneRotation = 0, false );
+
+	const axesHelper = new THREE.AxesHelper( 100 );
+	scene.add( axesHelper );
+
+	const geometry = new THREE.BoxGeometry( 50, 50, 50 );
+	const material = new THREE.MeshNormalMaterial();
+	const mesh = new THREE.Mesh( geometry, material );
+	//scene.add( mesh );
+
+
+	drawTemple();
+
+}
+
+
+function drawTemples() {
+
+	drawTemple();
+
+	for ( let i = 0; i < 50; i++ ) {
+
+		const aTemple = temple.clone()
+
+		aTemple.position.set( Math.random() * 100 - 50, Math.random() * 100 - 50,  Math.random() * 100 - 50);
+		aTemple.rotation.set( Math.random() * 6, Math.random() * 6, Math.random() * 6  )
+		//aTemple.scale.set( Math.random() * 3, Math.random() * 3, Math.random() * 3 );
+
+		scene.add( aTemple );
+
+	}
+
+}
+
+function drawTemple() {
+
+	temple = new THREE.Group();
+
+	drawCrepidoma();
+
+	drawColumns();
+
+	drawPediment();
+
+	drawRoof();
+
+	scene.add( temple );
+
+}
+
+function drawCrepidoma( obj ){
+
+	// https://en.wikipedia.org/wiki/Stylobate
+
+	const steps = 3;
+	const riser = 1;
+	const tread = 2;
+	const length = 25;
+	const width = 20;
+
+	for ( let i = 0; i < steps; i++ ) {
+
+		const geometry = new THREE.BoxGeometry( width + tread * i, length + tread * i, riser );
+
+		const mesh = new THREE.Mesh( geometry, material );
+		mesh.position.z = - riser * i;
+
+		addEdges( mesh );
+		temple.add( mesh );
+
+	}
+
+}
+
+
+function drawColumns() {
+
+	for ( let x = 0; x < 4; x++) {
+
+		for ( let y = 0; y < 5; y++ ) {
+
+			if ( ( y > 0 && y < 4 ) && ( x > 0 && x < 3 ) ) { continue; }
+
+			const column = getColumn()
+
+			column.position.set( x * 5 - 7.5, y * 5 -10, 0 )
+
+			temple.add( column );
+
+		}
+
+	}
+
+}
+
+
+function getColumn() {
+
+	const height = 15;
+	const diameter = 1;
+
+	const geometry = new THREE.CylinderGeometry( diameter, diameter, height );
+	geometry.applyMatrix( new THREE.Matrix4().makeRotationX( -0.5 * Math.PI ) );
+	geometry.applyMatrix( new THREE.Matrix4().makeTranslation( 0, 0, 7.5 ) )
+
+	const mesh = new THREE.Mesh( geometry, material );
+
+	addEdges( mesh );
+
+	return mesh;
+
+}
+
+
+
+function drawPediment() {
+
+	const v2 = ( x, y ) => new THREE.Vector2( x, y );
+	const shape = new THREE.Shape( [ v2( 0, 0), v2( 20, 0 ), v2( 10, 5 ) ] );
+
+	const geometry = new THREE.ExtrudeGeometry( shape, { bevelEnabled: false, depth: 25 } );
+	geometry.applyMatrix( new THREE.Matrix4().makeRotationX( 0.5 * Math.PI ) );
+
+	const mesh = new THREE.Mesh( geometry, material ) ;
+	mesh.position.set( -10, 12.5, 15 );
+
+	addEdges( mesh );
+
+	temple.add( mesh );
+
+}
+
+
+function drawRoof() {
+
+	const v2 = ( x, y ) => new THREE.Vector2( x, y );
+	const shape = new THREE.Shape(
+		[ v2( 0, 0), v2( 10, 5 ), v2( 20, 0 ), v2( 21, 1 ), v2( 10, 7 ), v2( -1, 1 ), ] );
+
+	const geometry = new THREE.ExtrudeGeometry( shape, { bevelEnabled: false, depth: 27 } );
+	geometry.applyMatrix( new THREE.Matrix4().makeRotationX( 0.5 * Math.PI ) );
+
+	const mesh = new THREE.Mesh( geometry, material ) ;
+	mesh.position.set( -10, 13.5, 15 );
+
+	addEdges( mesh );
+
+	temple.add( mesh );
+
+}
+
+
+function addEdges( mesh ) {
+
+	const edgesGeometry = new THREE.EdgesGeometry( mesh.geometry ); // or WireframeGeometry
+	const edgesMaterial = new THREE.LineBasicMaterial( { color: 0x000000, linewidth: 5 } );
+	const edges = new THREE.LineSegments( edgesGeometry, edgesMaterial );
+
+	mesh.add( edges );
+
+
+}
+
+
+function getTitle() {
+
+	document.title = document.title ? document.title : location.href.split( '/' ).pop().slice( 0, - 5 ).replace( /-/g, ' ' );
+
+	const htm =
+	`
+		<h2>
+			<a href=${ urlSourceCode } target=_top title="Source code on GitHub" >
+				[gl]
+			</a>
+			<a href="" title="Click to reload this page" >${ document.title }</a>
+		</h2>
+
+		<p>
+			${ document.head.querySelector( "[ name=description ]" ).content }
+		</p>
+	`;
+
+	return htm;
+
+}
+
+
+
+function onWindowResize() {
+
+	camera.aspect = window.innerWidth / window.innerHeight;
+	camera.updateProjectionMatrix();
+
+	renderer.setSize( window.innerWidth, window.innerHeight );
+
+	controls.handleResize();
+
+	//console.log( 'onWindowResize  window.innerWidth', window.innerWidth );
+
+}
+
+
+
+function animate() {
+
+	requestAnimationFrame( animate );
+	renderer.render( scene, camera );
+	controls.update();
+	scene.rotation.z += sceneRotation / 1000;
+
+}
+
+</script>
+</body>
+</html>

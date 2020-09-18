@@ -1,4 +1,4 @@
-<span style=display:none; >[You are now in a GitLab source code view - click this link to view Read Me file as a web page]( https://evereverland.gitlab.io/ "View file as a web page." ) </span>
+<span style=display:none; >[You are now in a GitLab source code view - click this link to view Read Me file as a web page]( https://evereverland.github.io/ "View file as a web page." ) </span>
 
 # EverEverLand Read Me
 

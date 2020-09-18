@@ -14,8 +14,10 @@
 	<style>
 		/* :root {
 			--main-hue: 0;
-			/* 0 to 360 0=red 120=green 240=blue */
-		} */
+			/* 0 to 360 0=red 120=green 240=blue
+		}
+
+		*/
 	</style>
 
 
@@ -24,8 +26,6 @@
 </head>
 
 <body>
-
-	<script src="../lib/grv-github-repo-tree-view/grv-github-repo-tree-view-2020-09-18.js"></script>
 
 
 	<details id=detNavMenu>
@@ -38,8 +38,7 @@
 
 				<h2>
 
-					<a id=aGithub
-						href="https://github.com/evereverland/evereverland.github.io/tree/master/lib"
+					<a id=aGithub href="https://github.com/evereverland/evereverland.github.io/tree/master/lib"
 						target="_top" title="Source code on GitHub">
 						<img src="../lib/icons/octicon.svg">
 					</a>
@@ -81,7 +80,16 @@
 			<details open>
 				<!-- 'open' triggers a run on load -->
 
-				<summary class="summary-primary gmd-1" title="View selected items">repo files</summary>
+				<summary class="summary-primary gmd-1" title="View selected items">repository files
+
+
+
+				<span class="info">
+					<img class=infoImg src="../lib/icons/noun_Information_585560.svg">
+					<span id="spnGRV" class="infoTooltip gmd-5">
+						test <button onclick=GRV.test() >view all files in this repository</button>
+					</span></span>
+				</summary>
 
 				<div class=divNavResize>
 
@@ -124,6 +132,7 @@
 
 	<div id="divPopUp" class="gmd-2">Welcome! </div>
 
+	<script src="../lib/grv-github-repo-tree-view/grv-github-repo-tree-view-2020-09-18.js"></script>
 
 	<script src="../lib/fo-file-open/foo-file-open-object-2020-07-17.js"></script>
 	<script src="../lib/fo-file-open/foz-file-open-zip-2020-07-07.js"></script>
@@ -160,6 +169,16 @@
 				window.history.pushState( "", "", "./" );
 
 			}
+
+			GRV.urlApi = "https://api.github.com/repos/evereverland/evereverland.github.io/git/trees/master?recursive=1";
+			GRV.urlSource = "https://github.com/evereverland/evereverland.github.io/";
+			GRV.urlViewer = "https://evereverland.github.io/";
+
+			GRV.ignoreFolders = [ "archive", "images", "js", "lib", "src", "templates" ];
+
+			GRV.iconOctoCat = `<img width=14 src="${ GRV.urlViewer }lib/icons/octicon.svg">`;
+
+			GRV.link = `<img width=14 src="${ GRV.urlViewer }lib/icons/icon-link-external.svg">`;
 
 			GRV.init();
 

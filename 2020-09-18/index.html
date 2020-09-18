@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang = "en" >
+<head>
+<meta charset = "utf-8" >
+<meta name = "viewport" content= "width=device-width, initial-scale=1" >
+<meta name = "description" content = "Tools to help you create your afterlife" >
+<meta name = "keywords" content = "JavaScript,GitHub,FOSS" >
+<meta name = "date" content = "2019-11-07" >
+<meta name = "version" content = "0.01.0" >
+<title>EverEverLand</title>
+
+<link href="src/style.css" rel="stylesheet" >
+
+</head>
+<body>
+
+<script src = "https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js" ></script>
+<script src = "src/fgla-files-gitlab-api.js" ></script>
+<script src = "src/foh-files-open-hash.js" ></script>
+
+
+	<button id="expandButton" onclick="toggleNavMenu();" >☰</button>
+
+	<nav id="navMenu" >
+
+		<header id="hdrTitle" ></header>
+
+		<details open>
+
+			<summary class="sumMenuTitle" >GitLab folders & files</summary>
+
+			<div id="FGAdivMenuRepoFilesFolders" ></div>
+
+			<div id="GATdivGithubAccessToken" ></div>
+
+		</details>
+
+		<footer>
+
+			<p>Click any <a href=https://gitlab.com/ ><img src=src/gitlab-solid-red.svg alt="GitLab logo" height=18 style=opacity:0.5 > </a> icon to view source code on GitHub.
+
+			<p>Click any &#x2750; icon to go full screen & obtain a link to the individual file.</p>
+
+			<hr>
+
+			<center title="hello! click me to go up to the top"><a href=javascript:navMenu.scrollTo(0,0); style=text-decoration:none; > ❦ </a></center>
+
+		</footer>
+
+
+	</nav>
+
+	<main id=main >
+
+		<div id="divContent" ></div>
+
+	</main>
+
+
+<script>
+
+const COR = {};
+
+
+//COR.groupId = "443787";
+COR.groupId = "14344097";
+
+COR.group = "evereverland";
+COR.repo = "evereverland.gitlab.io";
+COR.branch = "master";
+COR.pathRepo = "public";
+
+COR.urlPath = `https://${COR.repo}/`;
+//COR.path = COR.pathRepo;
+
+COR.ignoreFolders = [ ".gitlab", "archive", "src" ];
+COR.ignoreFiles = [
+	".gitattributes",
+	".gitignore",
+	".gitlab-ci.yml",
+	"index.html",
+	"favicon.ico"
+
+];
+
+const urlSourceCode = `https://gitlab.com/${ COR.group }/${ COR.repo }/tree/${ COR.branch }/${ COR.pathRepo }`;
+
+
+init();
+
+
+function init() {
+
+	hdrTitle.innerHTML = getTitle();
+
+	FOH.target = divContent;
+
+	FGAdivMenuRepoFilesFolders.innerHTML = FGA.getMenuFilesGitLabApi();
+
+	FGA.onHashChange();
+
+	FOH.onHashChange();
+
+	if ( window.innerHeight < 640 || window.innerWidth < 640 ) { toggleNavMenu(); }
+
+}
+
+
+function toggleNavMenu() {
+
+	expandButton.classList.toggle( 'collapsed' );
+	navMenu.classList.toggle( 'collapsed' );
+	main.classList.toggle( 'collapsed' );
+
+}
+
+
+function getTitle() {
+
+	const version = document.head.querySelector( "[ name=version ]" ).content;
+
+	const htm =
+	`
+		<h2>
+			<a href=${ urlSourceCode } target=_top title="Source code on GitHub" >
+				<img src="src/gitlab-solid-red.svg" alt="GitLab logo" height=18 style=opacity:0.5; >
+			</a>
+			<a href="" title="Click to reload this page" >${ document.title } ${ version }</a>
+		</h2>
+
+		<p title="with no expiry date"><i>
+			${ document.head.querySelector( "[ name=description ]" ).content }</i>
+		</p>
+	`;
+
+	return htm;
+
+}
+
+</script>
+</body>
+</html>

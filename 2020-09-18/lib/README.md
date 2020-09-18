@@ -3,12 +3,12 @@
 
 # [TooToo 2020 Read Me]( ./readme.html )
 
-<!--
+
 <div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://evereverland.github.io/lib/style/style-sample-tags.html height=100% width=100% ></iframe></div>
 _/lib/style_
 
 ### Full Screen: [/lib/style]( https://evereverland.github.io/lib/style/ )
--->
+
 
 ## Concept
 

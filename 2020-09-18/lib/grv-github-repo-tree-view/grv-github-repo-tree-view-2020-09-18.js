@@ -169,7 +169,7 @@ GRV.getFiles = function ( subtree, files ) {
 
 	const filtered = files
 		.filter( file => file.slice( 0, file.lastIndexOf( "/" ) ) === str )
-		//.filter( file => file.endsWith( ".md" ) )
+		.filter( file => file.endsWith( ".md" ) )
 		.map( item => `
 		<div>
 			<a href="${ GRV.urlSource }${ item }" title="Source code on GitHub" >
@@ -181,8 +181,6 @@ GRV.getFiles = function ( subtree, files ) {
 
 	return filtered;
 };
-
-
 
 ////////////
 

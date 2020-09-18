@@ -4,12 +4,11 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0" />
-	<meta name="description"
-		content="Tools to help you create your afterlife"">
+	<meta name="description" content="Tools to help you create your afterlife presence">
 	<meta name="keywords" content="JavaScript,GitHub,FOSS">
-	<meta name="version" content="2020-08-11">
+	<meta name="version" content="2020-09-17">
 
-	<link rel="stylesheet" href="./lib/style/style-2020-08-11.css">
+	<link rel="stylesheet" href="./lib/style/style-2020-09-17.css">
 
 	<style>
 		:root {
@@ -20,22 +19,16 @@
 		}
 	</style>
 
-
-	<title></title>
+	<title>EverEverLand 2020</title>
 
 </head>
 
 <body>
 
-	<script src="./lib/grv-github-repo-tree-view/grv-github-repo-tree-view-2020-08-11.js"></script>
 
-	<script src="./lib/fo-file-open/foo-file-open-object-2020-07-17.js"></script>
-	<script src="./lib/fo-file-open/foz-file-open-zip-2020-07-07.js"></script>
-	<script src="./lib/fo-file-open/fr-file-reader-2020-07-06.js"></script>
+	<details id=navMenuDet>
 
-	<details id=detNavMenu>
-
-		<summary id=sumNavMenu class="summary-secondary gmd-1">show || hide menu</summary>
+		<summary id=navMenuSum class="summary-secondary gmd-1">show || hide menu</summary>
 
 		<nav id="navMenu" class="gmd-2">
 
@@ -43,9 +36,7 @@
 
 				<h2>
 
-					<a id=aGithub
-						href="https://github.com/theo-armour/2020/" target="_top"
-						title="Source code on GitHub">
+					<a id=aGithub href="https://github.com/evereverland/" target="_top" title="Source code on GitHub">
 						<img src="./lib/octicon.svg">
 					</a>
 
@@ -83,12 +74,12 @@
 
 			</details>
 
-			<details ontoggle="GRV.init()" open>
+			<details id=GRVdet>
 				<!-- 'open' triggers a run on load -->
 
 				<summary class="summary-primary gmd-1" title="View selected items">repo files</summary>
 
-				<div class=divNavResize>
+				<div class="divNavResize">
 
 					<p>Files you can load, view and experiment with:</p>
 
@@ -104,10 +95,9 @@
 
 			<footer>
 
-				<div title="go to top of menu" style=text-align:center;>
-					<a class=aDingbat href="javascript:navMenu.scrollTo(0,0);" ">
-						❦
-					</a>
+				<center >
+					<a class=aDingbat href="javascript:navMenuDet.scrollTo(0,0);" title="go to top of menu">❦</a>
+					</center>
 				</div>
 
 			</footer>
@@ -119,23 +109,22 @@
 
 	<main>
 
-		<div id="divContentMain">
+		<div id=divContentMain > <iframe id=ifr style=" border-width: 0 1px 1px 0;height:100%;width:100%;"></iframe></div>
 
-			<iframe id=ifr style="border-width: 0 1px 1px 0;height:100%;width:100%;"></iframe>
+		</main>
 
-		</div>
+		<div id="divPopUp" class="gmd-2">Welcome! </div>
 
-	</main>
+	<script src="./lib/grv-github-repo-tree-view/grv-github-repo-tree-view-2020-09-17.js"></script>
 
-	<div id="divPopUp" class="gmd-2">Welcome! </div>
-
+	<script src="./lib/fo-file-open/foo-file-open-object-2020-07-17.js"></script>
+	<script src="./lib/fo-file-open/foz-file-open-zip-2020-07-07.js"></script>
+	<script src="./lib/fo-file-open/fr-file-reader-2020-07-06.js"></script>
 
 
 	<script>
 
-
 		divDescription.innerHTML = document.head.querySelector( "[ name=description ]" ).content;
-
 
 		init();
 
@@ -151,7 +140,7 @@
 
 			} else {
 
-				detNavMenu.open = true
+				navMenuDet.open = true
 
 			}
 
@@ -162,6 +151,10 @@
 				window.history.pushState( "", "", "./" );
 
 			}
+
+			GRVdet.ontoggle= GRV.init();
+
+			GRVdet.open = true;
 
 		}
 
@@ -190,6 +183,8 @@
 		}
 
 	</script>
+
+
 </body>
 
 </html>

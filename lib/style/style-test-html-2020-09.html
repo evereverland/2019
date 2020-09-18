@@ -5,17 +5,12 @@
 <meta name = "viewport" content="width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0" />
 <meta name = "description" content = "Basic TooToo HTML template" >
 <meta name = "keywords" content = "JavaScript,GitHub,FOSS" >
-<meta name = "version" content="2020-07-05">
 
-<link rel="stylesheet" href="../style/style-2020-08-11.css">
+<link rel="stylesheet" href="../style/style-2020-09-17.css">
 
 <style>
 
-	:root {
 
-		--main-hue: 0; /* 0 to 360 0=red 120=green 240=blue */
-
-	}
 </style>
 
 <title></title>
@@ -23,29 +18,29 @@
 </head>
 <body>
 
-	<script src="../fo-file-open/foo-file-open-object-2020-06-16.js"></script>
+	<script src="../fo-file-open/foo-file-open-object-2020-07-17.js"></script>
 	<script src="../fo-file-open/foz-file-open-zip-2020-06-12.js"></script>
 	<script src="../fo-file-open/fr-file-reader-2020-06-12.js"></script>
 
-	<details id=detNavMenu class="gmd-2">
+	<details id=navMenuDet class="gmd-2">
 
-		<summary id=sumNavMenu class="summary-secondary gmd-1">show || hide menu</summary>
+		<summary id=navMenuSum class="summary-secondary gmd-1">show || hide menu</summary>
 
-		<nav id="navMenu" class="gmd-4">
+		<nav id="navMenu" class="gmd-4" open>
 
 			<header id="hdrTitle">
 
 				<h2>
 
 					<a id=aGithub href="https://github.com/theo-armour/2020/tree/master/lib/htm/" target="_top" title="Source code on GitHub">
-						<img src="../assets/icons/octicon.svg">
+						<img src="../octicon.svg">
 					</a>
 
 					<a id=aTitle href="" title="Click to reload this page">
 						2020 Test Style HTML
 					</a>
 					&nbsp;
-					<span class="info"><img class=infoImg  src="../assets/icons/noun_Information_585560.svg"> <span id="divDescription" class="infoTooltip gmd-5">
+					<span class="info"><img class=infoImg  src="../noun_Information_585560.svg"> <span id="divDescription" class="infoTooltip gmd-5">
 
 					</span></span>
 
@@ -64,9 +59,9 @@
 				<p>
 					<input type=file id=FRinpFile onchange=FR.readFile(this); accept = "*" >
 				</p>
-		
+
 				<div id=FOOdivLog >to be reset</div>
-		
+
 				<div id=FOZdivFileOpenZip ></div>
 
 				<div id=divLog ></div>
@@ -80,11 +75,11 @@
 				<div class=divNavResize >
 
 					<p>Sample files you can load, view and experiment with:</p>
-					
+
 					<div id=GFFdivGithubFoldersFiles></div>
-					
+
 					<div id=GFFdivFileInfo></div>
-					
+
 					<br>
 
 				</div>
@@ -113,18 +108,18 @@
 
 					<p>
 						<i>We need to decide what data should appear here & and how best to format it. Work-in-progress.</i>
-					</p>	
-					
+					</p>
+
 					<div id=JTHdivJsonTreeHelper ></div>
-					
+
 					<div id=JTFdivJsonTreeFinder ></div>
-					
+
 					<div id=JTEdivJsonTreeEdit ></div>
-					
+
 					<div id=JTVdivJsonTreeView ></div>
-					
+
 					<hr>
-					
+
 				</div>
 
 			</details>
@@ -132,11 +127,11 @@
 			<br>
 
 			<footer>
-	
+
 				<div title="go to top of menu" style=text-align:center; >
 					<a class=aDingbat href=javascript:navMenu.scrollTo(0,0); >❦</a>
 				</div>
-				
+
 			</footer>
 
 		</nav>
@@ -171,7 +166,7 @@
 		<!-- <footer>
 
 			<hr>
-			
+
 			<div title="go to top of menu" style=text-align:center; >
 				<a class=aDingbat href=javascript:window.scrollTo(0,0); >❦</a>
 			</div>
@@ -206,9 +201,9 @@ function init() {
 	//requestFile( "style-sample-tags.html" );
 
 	// var cssLink = ifr.contentDocument.createElement("link");
-	// cssLink.href = "../style/style-2020-07-05.css"; 
-	// cssLink.rel = "stylesheet"; 
-	// cssLink.type = "text/css"; 
+	// cssLink.href = "../style/style-2020-07-05.css";
+	// cssLink.rel = "stylesheet";
+	// cssLink.type = "text/css";
 	// //frames['iframe1'].document.head.appendChild(cssLink);
 	// ifr.contentDocument.head.appendChild( cssLink );
 
@@ -219,7 +214,7 @@ function init() {
 
 	} else {
 
-		detNavMenu.open = true;
+		navMenuDet.open = true;
 
 	}
 

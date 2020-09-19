@@ -11,24 +11,25 @@
 	<meta name="keywords" content="ShowDown,Markdown,AJAX,JavaScript,HTML,CSS,GitHub,FOSS">
 	<meta name="version" content="2020-05-31">
 
-	<link rel="stylesheet" href="../lib/style/style-2020-09-17.css" />
+		<link rel="stylesheet" href="../lib/style/style-2020-09-17.css" />
 
-	<style>
-		:root {
-			/* --main-hue: 120; */
-			/* 0 to 360 0=red 120=green 240=blue */
-		}
-	</style>
-</head>
+		<style>
 
-<body>
+			:root {
+				--main-hue: 120; /* 0 to 360 0=red 120=green 240=blue */
+			}
 
-	<!-- https://github.com/showdownjs/showdown -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
+		</style>
+	</head>
+	<body>
 
-	<div id=divContent class=divContent></div>
+		<!-- https://github.com/showdownjs/showdown -->
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.1/showdown.min.js"></script>
+
+	<div id=divContent class=divContent ></div>
 
 	<script>
+
 
 		defaultFile = "README.md";
 
@@ -43,7 +44,9 @@
 
 			if ( !location.hash ) { location.hash = defaultFile; }
 
-			location.hash.endsWith( ".md" ) ? onHashChange() : window.location.href = location.hash;
+			//location.hash.endsWith( ".md" ) ? onHashChange() : window.location.href = location.hash;
+
+			onHashChange();
 
 			window.addEventListener( "hashchange", onHashChange, false );
 
@@ -52,6 +55,17 @@
 		function onHashChange() {
 
 			const url = location.hash.slice( 1 );
+
+			console.log( "url", url );
+
+			if ( !url.endsWith( ".md" )){
+
+				divContent.innerHTML = `<iframe src="${ url }" width=100% ></iframe>`;
+
+				return;
+
+			}
+
 			document.title = url.split( "/" ).pop();
 			const options = { excludeTrailingPunctuationFromURLs: true, ghMention: true, simplifiedAutoLink: true, simpleLineBreaks: true, emoji: true, openLinksInNewWindow: true };
 

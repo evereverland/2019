@@ -60,6 +60,7 @@
 
 			<div id=divNavLog></div>
 
+			<!--
 			<details id=detFile>
 
 				<summary class="summary-primary gmd-1" title="Open files on your device: ">file menu</summary>
@@ -79,18 +80,18 @@
 			</details>
 
 			<details open>
-				<!-- 'open' triggers a run on load -->
+				<!-- 'open' triggers a run on load
 
 				<summary class="summary-primary gmd-1" title="View selected items">repository files
 
-
+				</summary>
+				-->
 
 				<span class="info">
 					<img class=infoImg src="./lib/icons/noun_Information_585560.svg">
 					<span id="spnGRV" class="infoTooltip gmd-5">
 						test <button onclick=GRV.test() >view all files in this repository</button>
 					</span></span>
-				</summary>
 
 				<div class=divNavResize>
 
@@ -102,7 +103,7 @@
 
 				</div>
 
-			</details>
+			<!-- </details> -->
 
 			<hr>
 
@@ -185,6 +186,8 @@
 			GRV.init();
 
 		}
+
+
 
 		function onHashChange() {
 

@@ -4,8 +4,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0" />
-	<meta name="description"
-		content="Tools to help you create a presence for your afterlife">
+	<meta name="description" content="Tools to help you create a presence for your afterlife">
 	<meta name="keywords" content="JavaScript,GitHub,FOSS">
 	<meta name="version" content="2020-09-18">
 
@@ -39,8 +38,8 @@
 
 				<h2>
 
-					<a id=aGithub href="https://github.com/evereverland/evereverland.github.io/"
-						target="_top" title="Source code on GitHub">
+					<a id=aGithub href="https://github.com/evereverland/evereverland.github.io/" target="_top"
+						title="Source code on GitHub">
 						<img src="./lib/icons/octicon.svg">
 					</a>
 
@@ -87,21 +86,21 @@
 				</summary>
 				-->
 
-				<span class="info">
-					<img class=infoImg src="./lib/icons/noun_Information_585560.svg">
-					<span id="spnGRV" class="infoTooltip gmd-5">
-						test <button onclick=GRV.test() >view all files in this repository</button>
-					</span></span>
+			<span class="info">
+				<img class=infoImg src="./lib/icons/noun_Information_585560.svg">
+				<span id="spnGRV" class="infoTooltip gmd-5">
+					test <button onclick=GRV.test()>view all files in this repository</button>
+				</span></span>
 
-				<div class=divNavResize>
+			<div class=divNavResize>
 
-					<p>Files you can load, view and experiment with:</p>
+				<p>Files you can load, view and experiment with:</p>
 
-					<div id=GRVdivGitHubRepoTreeView></div>
+				<div id=GRVdivGitHubRepoTreeView></div>
 
-					<br>
+				<br>
 
-				</div>
+			</div>
 
 			<!-- </details> -->
 
@@ -169,6 +168,12 @@
 
 				window.history.pushState( "", "", "./" );
 
+				GRV.ignoreFolders = [ "archive", "drafts", "images", "js", "lib", "src", "templates" ];
+
+			} else {
+
+				GRV.ignoreFolders = [];
+
 			}
 
 
@@ -176,7 +181,6 @@
 			GRV.urlSource = "https://github.com/evereverland/evereverland.github.io/";
 			GRV.urlViewer = "https://evereverland.github.io/";
 
-			GRV.ignoreFolders = [ "archive", "drafts", "images", "js", "lib", "src", "templates" ];
 
 			GRV.iconOctoCat = `<img width=14 src="${ GRV.urlViewer }lib/icons/octicon.svg">`;
 

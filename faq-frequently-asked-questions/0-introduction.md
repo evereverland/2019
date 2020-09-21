@@ -1,25 +1,26 @@
 # EverEverland FAQ Introduction
 
-EverEverland wants to help you and me solve some tough problems and overcome difficult issues. A good way to start is by obeying the first rule of ["Don't make me think"]( https://en.wikipedia.org/wiki/Don%27t_Make_Me_Think )
+EverEverland wants to help you ( and me ) solve some tough problems and overcome difficult issues. A good way to start is by obeying the first rule of ["Don't make me think"]( https://en.wikipedia.org/wiki/Don%27t_Make_Me_Think )
 
-	"What's the most important thing I should do if I want to make sure my site or app is easy to use?"
-
-	The answer is simple. it's not "nothing important should be more than 2 clicks away" or "speak the usual language" or "be consistent".
-
-	it's:
-
-	"Don't make me think!"
+> "What's the most important thing I should do if I want to make sure my site or app is easy to use?"
+>
+> The answer is simple. it's not "nothing important should be more than 2 clicks away" or "speak the usual language" or "be consistent".
+>
+>it's:
+>
+>"Don't make me think!"
 
 Therefore this web site is built around a familiar format: the Frequently Asked Questions (FAQ)
 
-* Wikipedia [FAQ]( https://en.wikipedia.org/wiki/FAQ )
+<details>
+<summary>Wikipedia [FAQ]( https://en.wikipedia.org/wiki/FAQ )</summary>
 
-	An FAQ is a list of frequently asked questions (FAQs) and answers on a particular topic (also known as Questions and Answers [Q&A] or Frequently Answered Questions). The format is often used in articles, websites, email lists, and online forums where common questions tend to recur, for example through posts or queries by new users related to common knowledge gaps. The purpose of an FAQ is generally to provide information on frequent questions or concerns; however, the format is a useful means of organizing information, and text consisting of questions and their answers may thus be called an FAQ regardless of whether the questions are actually frequently asked.
+An FAQ is a list of frequently asked questions (FAQs) and answers on a particular topic (also known as Questions and Answers [Q&A] or Frequently Answered Questions). The format is often used in articles, websites, email lists, and online forums where common questions tend to recur, for example through posts or queries by new users related to common knowledge gaps. The purpose of an FAQ is generally to provide information on frequent questions or concerns; however, the format is a useful means of organizing information, and text consisting of questions and their answers may thus be called an FAQ regardless of whether the questions are actually frequently asked.
+</details>
 
 The questions and answers are organized around another familiar concept: the Five Ws.
 
-* Wikipedia [Five Ws]( https://en.wikipedia.org/wiki/Five_Ws )
-	> The Five Ws are questions whose answers are considered basic in information gathering or problem solving. They are often mentioned in journalism, research and police investigations. According to the principle of the Five Ws, a report can only be considered complete if it answers these questions starting with an interrogative word:
+
 * Who
 * What
 * When
@@ -31,11 +32,20 @@ Some authors add a sixth question, how, to the list:
 * How
 
 
+<details>
+<summary>Wikipedia [Five Ws]( https://en.wikipedia.org/wiki/Five_Ws )</summary>
+> The Five Ws are questions whose answers are considered basic in information gathering or problem solving. They are often mentioned in journalism, research and police investigations. According to the principle of the Five Ws, a report can only be considered complete if it answers these questions starting with an interrogative word:
+</details>
+
+
+
+## Five Ws Metadata
+
 The following section begin to discuss how we plan to cover each of the Ws. They provide an overview of the thoughts that will back up each W.
 
 Each W will be covered in detail in the six subsequent pages in this folder. As of this writing these pages are still blank.
 
-So the following is the ["metadata"]( https://en.wikipedia.org/wiki/Metadata ) or the instructions for building the actual pages. We will put a very important W first.
+The following is the ["metadata"]( https://en.wikipedia.org/wiki/Metadata ) or the instructions for building the actual pages. We will put a very important W first.
 
 ## Why
 
@@ -62,8 +72,8 @@ Short term questions
 * What are the features and benefits of what we do that can solve these problems?
 
 What do people want to collect/preserve?
-	* How to achieve that goal for the basic user.
-	* End product for a simple upload for the basic user.
+	* How to achieve that goal for the basic user
+	* End product for a simple upload for the basic user
 
 
 * We will provide useful information
@@ -134,17 +144,9 @@ Where is all of this data going to be stored?
 
 
 
-
-**
-
-2019-11-03 ~ The following pages are blank and TBD. They will incorporate or 'swallow' the data on  most of the existing pages on this site
-
 <hr>
 
 
 ***
 
-# <center title="hello!" ><a href=javascript:window.scrollTo(0,0); style=text-decoration:none; > ❦ </a></center>
-
-
-
+<center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat title="Go to top of page" > ❦ </a></center>

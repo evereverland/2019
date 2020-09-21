@@ -24,12 +24,15 @@ We hope this projects helps create jobs = both local and remote - at many levels
 * Developer
 * User arrived by search engine hit
 
+<!--
 ## What are our GitLab user names?
 
 * [@theo-armour]( https://gitlab.com/theo-armour )
 * @markcarranza
 
 What about the others?
+
+-->
 
 ## Who or what inspires us?
 
@@ -40,5 +43,4 @@ What about the others?
 
 ***
 
-# <center title="hello!" ><a href=javascript:window.scrollTo(0,0); style=text-decoration:none; > ❦ </a></center>
-
+<center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat title="Go to top of page" > ❦ </a></center>

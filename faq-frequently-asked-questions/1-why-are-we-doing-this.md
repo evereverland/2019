@@ -3,12 +3,11 @@
 
 ## Suggested 'calls to action'
 
+* Tools to help you create your afterlife
 * Do you want to live forever?
 * The Search for Eternal Life, through data collecting and tracking
 * Death 2.0 - interaction with your death
 * New homes for old things.
-
-* Creating a system that helps people do the metadata work to make this process flow smoother
 
 
 ## What is the EverEverland mission and vision?
@@ -28,6 +27,7 @@ Can we all suggest one or two or more thoughts?
 	* Two or more long term cloud storage places
 * Keep it simple....
 * We are: Thoughtful/Local/Practical
+* Creating a system that helps people do the metadata work to make this process flow smoother
 
 
 ### Vision
@@ -44,5 +44,4 @@ _We need to continue Mark's questioning regarding the meaning of all this_
 
 ***
 
-# <center title="hello!" ><a href=javascript:window.scrollTo(0,0); style=text-decoration:none; > ❦ </a></center>
-
+<center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat title="Go to top of page" > ❦ </a></center>

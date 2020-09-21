@@ -67,5 +67,4 @@ What do we need to do to get started?
 
 ***
 
-# <center title="hello!" ><a href=javascript:window.scrollTo(0,0); style=text-decoration:none; > ❦ </a></center>
-
+<center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat title="Go to top of page" > ❦ </a></center>

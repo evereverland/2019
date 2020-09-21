@@ -4,7 +4,7 @@
 
 ## Preface
 
-When you are a part of a enture-captital-backed, forprofit startup, the general path forward is moderatly clear: You get lawyers, incorprate in Delaware, prepare for the IPO roadshow and learn to pirate your super yacht around the Seychelle Islands.
+When you are a part of a venture-capital-backed, for profit startup, the general path forward is moderately clear: You get lawyers, incorporate in Delaware, prepare for the IPO roadshow and learn to pirate your super yacht around the Seychelles islands.
 
 The path, the organization and the ethics of an "open organization" are less clear. This paper (currently just a set of brief notes) is a work-in-progress that, fingers-crossed, may one day provide some useful guidance toward building an organization that is responsible:
 
@@ -12,7 +12,7 @@ The path, the organization and the ethics of an "open organization" are less cle
 * Environmentally
 * Socially
 
-Ideally this document provides a checklist of items and metrics to be considered and continuously monitored. The list is short, but not too short. The list is authoritatie and provides links that may be used to verify and provide background on each and every item asserted here,
+Ideally this document provides a checklist of items and metrics to be considered and continuously monitored. The list is short, but not too short. The list is authoritative and provides links that may be used to verify and provide background on each and every item asserted here,
 
 
 ## Definitions
@@ -66,7 +66,7 @@ The mission and vision of the organization are defined by:
 
 [Intellectual property]( https://en.wikipedia.org/wiki/Intellectual_property )
 
->  Balancing rights so that they are strong enough to encourage the creation of intellectual goods but not so strong that they prevent the goods' wide use is the primary focus of modern intellectual property law.
+> Balancing rights so that they are strong enough to encourage the creation of intellectual goods but not so strong that they prevent the goods' wide use is the primary focus of modern intellectual property law.
 
 Copyright and licensing
 
@@ -96,3 +96,7 @@ Always prepared for bad things happening
 * Money laundering
 * Tax evasion
 * Bribery || kickbacks || double dealing ||
+
+***
+
+<center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat title="Go to top of page" > ❦ </a></center>

@@ -5,7 +5,7 @@ There is definitely a game plan here. We just don't know it yet.
 
 ## Science Of Persuasion
 
-Theo: The usual way to start a startup is by creating a business plan. But I like thus idea even more: Sell then design then build. So how do we start by selling? This video offers clues: https://www.youtube.com/watch?v=cFdCzN7RYbw.
+Theo: The usual way to start a startup is by creating a business plan. But I like thus idea even more: Sell then design then build. So how do we start by selling? This video offers clues: https://www.youtube.com/watch?v=cFdCzN7RYbw. See also: https://www.influenceatwork.com/principles-of-persuasion/
 
 The following notes will be amplified
 
@@ -33,4 +33,6 @@ The following notes will be amplified
 	* If others (especially similar others) are doing it, then we are more likely to do it ourselves.
 	* People will look to the actions of others to determine their own
 
-See also: https://www.influenceatwork.com/principles-of-persuasion/
+***
+
+<center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat title="Go to top of page" > ❦ </a></center>

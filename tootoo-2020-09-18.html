@@ -38,8 +38,8 @@
 
 				<h2>
 
-					<a id=aGithub href="https://github.com/evereverland/evereverland.github.io/" target="_top"
-						title="Source code on GitHub">
+					<a id=aGithub href="https://github.com/evereverland/evereverland.github.io/"
+					 target="_top" title="Source code on GitHub">
 						<img src="./lib/icons/octicon.svg">
 					</a>
 
@@ -194,25 +194,7 @@
 
 		function onHashChange() {
 
-			const path = "./";
-
-			if ( !location.hash ) {
-
-				ifr.src = path + "readme.html";
-
-				return;
-
-			}
-
-			if ( location.hash.toLowerCase().endsWith( ".md" ) ) {
-
-				ifr.src = path + "readme.html" + location.hash;
-
-				return;
-
-			}
-
-			ifr.src = path + location.hash.slice( 1 );
+			ifr.src = "./readme.html" + location.hash;
 
 		}
 

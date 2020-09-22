@@ -1,12 +1,9 @@
-# Places Read Me
+# Diana Chace
 
-Your afterlife sampler
+## [Diana Chace ]( https://dianachace.com )
 
-The "here and now" for your "there and then"
+## [Art of Power]( https://artofpower.com )
 
-Bridge over the River Styx
-
-The pearly gates to your living memorial
 
 ***
 

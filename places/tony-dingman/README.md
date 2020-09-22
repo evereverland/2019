@@ -12,7 +12,7 @@ I hope he writes better than I can.
 
 
 
-[Tony Dingman]( https://tony-dingman.github.io )
+Linkt to the repository with the poems: [Tony Dingman]( https://tony-dingman.github.io )
 
 ![Tony]( https://tony-dingman.github.io/2004-tony-dingman-by-frank-lobdell.png )
 

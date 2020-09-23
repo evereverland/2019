@@ -1,8 +1,11 @@
 # Diana Chace
 
-## [Diana Chace ]( https://dianachace.com )
+## [Diana Chace ]( http://dianachace.com )
 
-## [Art of Power]( https://artofpower.com )
+## [Art of Power]( http://artofpower.com )
+
+
+![]( https://dianachace.github.io/images/Di6.jpg )
 
 
 ***

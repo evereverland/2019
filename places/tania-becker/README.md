@@ -1,6 +1,6 @@
 # Tania Becker
 
-## [Tania Becker]( http://taniabecker.com )
+## [Tania Becker]( http://www.taniabecker.com ) Site is down!!
 
 ***
 

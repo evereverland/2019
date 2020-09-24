@@ -1,6 +1,6 @@
 ## Portrait of Hugh Percy, Second Duke of Northumberland
 
-![]( images/portrait-hugh-percy.jpg )
+![]( https://evereverland.github.io/places/theo-armour/images/portrait-hugh-percy.jpg )
 
 Attributed to Gainsborough Dupont
 
@@ -89,7 +89,7 @@ Valentine Green - artist of the mezzotint of Batoni's painting
 More
 
 * https://www.alnwickcastle.com/
-* https://en.wikipedia.org/wiki/James_Smithson ~ Founder of Smithsonian Instution in USA
+* https://en.wikipedia.org/wiki/James_Smithson ~ Founder of Smithsonian Institution in USA
 
 
 ## Notes on Dates
@@ -103,8 +103,8 @@ Hugh Percy
 
 * The man in the portrait appears to be in twenties and is in civilian clothes
 	* Percy was in his twenties 1762 to 1772
-	* He studies at Cambridge University starting 1760. Marries in 1764
-* In 1780 Percy would have been in his late thirties or early forties and  general
+	* He studied at Cambridge University starting 1760. Married in 1764
+* By 1780 Percy would have been in his late thirties or early forties and  general
 * Percy had already been painted by Batoni circa 1775 in uniform
 
 ## Appearance
@@ -118,10 +118,13 @@ Hugh Percy
 
 ## Theo's thoughts
 
-* From 1760 to 1764 Dupont was 6 to 10 - too young to paint Percy
+* From 1760 to 1764 Dupont was age 6 to 10 - too young to paint Percy
 * Possibility: The painting is by Thomas Gainsborough - who had painted the first Duke in 1750
 * Possibility: The painting is of an unknown young man painted by an unknown artist
 
+Next action
+
+* Look for 1983 appraisal for my mother's estate to see if there are any more details.
 
 
 ***

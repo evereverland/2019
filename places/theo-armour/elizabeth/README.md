@@ -1,6 +1,6 @@
 # Portrait of Elizabeth of Russia Read Me
 
-<img src=https://evereverland.github.io/#places/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg width=100% >
+<img src=https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg width=100% >
 
 _Portrait of Elizabeth of Russia _
 
@@ -88,62 +88,62 @@ Portraits by Others
 
 
 <figure>
-  <img src="https://evereverland.github.io/#places/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg" alt="Elizabeth Full 1" >
+  <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg" alt="Elizabeth Full 1" >
   <figcaption>Elizabeth Full 1</figcaption>
 </figure>
 
 <figure>
-  <img src="https://evereverland.github.io/#places/theo-armour/elizabeth/images-elizabeth/elizabeth-full-2.jpg" alt="Elizabeth Full 2" >
+  <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-full-2.jpg" alt="Elizabeth Full 2" >
   <figcaption>Elizabeth Full 2</figcaption>
 </figure>
 
 <figure>
-  <img src="https://evereverland.github.io/#places/theo-armour/elizabeth/images-elizabeth/elizabeth-closeup.jpg" alt="Closeup" >
+  <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-closeup.jpg" alt="Closeup" >
   <figcaption>Closeup</figcaption>
 </figure>
 
 <figure>
-  <img src="https://evereverland.github.io/#places/theo-armour/elizabeth/images-elizabeth/elizabeth-face-1.jpg" alt="Face 1" >
+  <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-face-1.jpg" alt="Face 1" >
   <figcaption>Face 1</figcaption>
 </figure>
 
 <figure>
-  <img src="https://evereverland.github.io/#places/theo-armour/elizabeth/images-elizabeth/elizabeth-face-2.jpg" alt="Face 2" >
+  <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-face-2.jpg" alt="Face 2" >
   <figcaption>Face 2</figcaption>
 </figure>
 
 <figure>
-  <img src="https://evereverland.github.io/#places/theo-armour/elizabeth/images-elizabeth/elizabeth-shoulder.jpg" alt="Shoulder" >
+  <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-shoulder.jpg" alt="Shoulder" >
   <figcaption>Shoulder</figcaption>
 </figure>
 
 <figure>
-  <img src="https://evereverland.github.io/#places/theo-armour/elizabeth/images-elizabeth/elizabeth-elbow.jpg" alt="Elbow" >
+  <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-elbow.jpg" alt="Elbow" >
   <figcaption>Elbow</figcaption>
 </figure>
 
 <figure>
-  <img src="https://evereverland.github.io/#places/theo-armour/elizabeth/images-elizabeth/elizabeth-forearm.jpg" alt="Forearm" >
+  <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-forearm.jpg" alt="Forearm" >
   <figcaption>Forearm</figcaption>
 </figure>
 
 <figure>
-  <img src="https://evereverland.github.io/#places/theo-armour/elizabeth/images-elizabeth/elizabeth-crown.jpg" alt="Crown" >
+  <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-crown.jpg" alt="Crown" >
   <figcaption>Crown</figcaption>
 </figure>
 
 <figure>
-  <img src="https://evereverland.github.io/#places/theo-armour/elizabeth/images-elizabeth/elizabeth-medal.jpg" alt="Medal" >
+  <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-medal.jpg" alt="Medal" >
   <figcaption>Medal</figcaption>
 </figure>
 
 <figure>
-  <img src="https://evereverland.github.io/#places/theo-armour/elizabeth/images-elizabeth/elizabeth-tassel.jpg" alt="Tassel" >
+  <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-tassel.jpg" alt="Tassel" >
   <figcaption>Tassel</figcaption>
 </figure>
 
 <figure>
-  <img src="https://evereverland.github.io/#places/theo-armour/elizabeth/images-elizabeth/elizabeth-urn.jpg" alt="Urn" >
+  <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-urn.jpg" alt="Urn" >
   <figcaption>Urn</figcaption>
 </figure>
 

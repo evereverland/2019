@@ -23,7 +23,7 @@ During the course of the Russian Revolution, the Koudachevs fled Russia.  One it
 
 In 1758 a noted French portrait artist Louis Tocqué was invited by Elizabeth to come to Saint Petersburg to paint a coronation portrait. The work was completed in 1758. Subsequently a number of artists painted reproductions of Tocqué's effort.
 
-A images of Tocqué's original and the works of others are provided below. Note the many similarities between all the efforts.
+Images of Tocqué's original and the works of others are provided below. Note the many similarities between all the efforts.
 
 It appears quit evident that our painting is yet another reproduction of Tocqué's work. Nonetheless it is rewarding to examine the techniques of this work. For example, the brush stokes of details such as the lace on her arms exude confidence. The blending of the skin coloration is a smooth as a baby's bottom. Having said that the image of Elizabeth's face is slightly more doll-like than human-like. Despite the sad amputations she suffered, the presence of an empress of Russia is quite tangible when you stand before her.
 

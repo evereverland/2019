@@ -15,7 +15,7 @@ My grandparents always displayed this portrait in the living room, most recently
 
 ### How did this painting come to be in our possession
 
-Soon after graduating from Harvard Law School in 1915, Norman Armour joined the Foreign Service.  His first post was as Third Secretary in the American Embassy in St Petersburg.  He was a witness to many of the significant events in the Russian Revolution.  In one of the rare happy moments of that period he was more than a witness.  He met and fell in love with a young Russian aristocrat, the Princess Myra Koudachev.  The Koudachevs are an aristocratic family descended from Tartar princes.
+Soon after graduating from Harvard Law School in 1915, Norman Armour joined the Foreign Service.  His first post was as Third Secretary in the American Embassy in St Petersburg.  He was a witness to many of the significant events in the Russian Revolution.  In one of the rare happy moments of that period he was more than a witness.  He met and fell in love with a young Russian aristocrat, the Princess Myra Koudachev. The Koudachevs are an aristocratic family descended from Tartar princes.
 
 During the course of the Russian Revolution, the Koudachevs fled Russia.  One item they brought with them to Stockholm, and later to Paris, and then to the United States was this portrait. Note that figure is missing hands and feet. This is because in the hasty departure, the painting was cut out of the frame with a knife.
 
@@ -96,9 +96,9 @@ Copy of Tocqué p ortrait by Others
 
 <details style=text-align:center;>
 
-<summary class=summary-primary >Portrait detail images gallery</summary>
+<summary class=summary-primary >Portrait details image gallery</summary>
 
-_You may use the pop-up context menu to view images full-size in a new tab._
+_You may use the pop-up context menu to open images full-size in a new tab._
 
 <figure>
   <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg" alt="Elizabeth Full 1" >

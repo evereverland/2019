@@ -25,7 +25,7 @@ In 1758 a noted French portrait artist Louis Tocqué was invited by Elizabeth to
 
 A images of Tocqué's original and the works of others are provided below. Note the many similarities between all the efforts.
 
-It appears quit evident that our painting is yet another reproduction of Tocqué's work. Nonetheless it is rewarding to examine the techniques of this work. For example, the brush stokes of details such as the lace on her arms exude confidence. The blending of the skin coloration is a smooth as a baby's bottom. Having said that the image of Elizabeth's face is slightly more doll-like than human-like. Despite the sad amputations she suffered, the presence of an empress of Russia is quite tangible when you stand before her. 
+It appears quit evident that our painting is yet another reproduction of Tocqué's work. Nonetheless it is rewarding to examine the techniques of this work. For example, the brush stokes of details such as the lace on her arms exude confidence. The blending of the skin coloration is a smooth as a baby's bottom. Having said that the image of Elizabeth's face is slightly more doll-like than human-like. Despite the sad amputations she suffered, the presence of an empress of Russia is quite tangible when you stand before her.
 
 
 
@@ -96,8 +96,9 @@ Copy of Tocqué p ortrait by Others
 
 <details style=text-align:center;>
 
-<summary>Portrait detail images gallery</summary>
+<summary class=summary-primary >Portrait detail images gallery</summary>
 
+_You may use the pop-up context menu to view images full-size in a new tab._
 
 <figure>
   <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg" alt="Elizabeth Full 1" >

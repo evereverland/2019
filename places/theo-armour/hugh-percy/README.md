@@ -10,6 +10,10 @@ Oil painting on canvas
 
 Not signed, not dated. Rococo frame, damaged
 
+## TL;DR
+
+
+Given that the figure in the painting appears to be in his twenties, Gainsborough Dupont was most likely too young to have painted the Duke.
 
 ## Gainsborough Dupont
 

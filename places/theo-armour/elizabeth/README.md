@@ -4,6 +4,10 @@
 
 _Portrait of Elizabeth of Russia _
 
+## TL;DR
+
+Elizabeth is a contemporary reproduction of a well-known coronation painting created by Jean Louis Tocqué in 1758
+
 ## Background
 
 _very preliminary_

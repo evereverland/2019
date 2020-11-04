@@ -1,5 +1,10 @@
 # Theo Armour
 
+[Armour Fine Art Catalog]( https://evereverland.github.io/#places/theo-armour/armour-fine-art-catalog.md )
+
+***
+
+Elsewhere on the 'net
 
 ## [Art of the Net]( https://artofthenet2009.wordpress.com/)
 

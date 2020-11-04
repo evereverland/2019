@@ -2,6 +2,10 @@
 
 [Armour Fine Art Catalog]( https://evereverland.github.io/#places/theo-armour/armour-fine-art-catalog.md )
 
+[Barbara Allison Armour]( https://evereverland.github.io/#places/theo-armour/armour-fine-art-catalog.md )
+[Elizabeth]( https://evereverland.github.io/#places/theo-armour/armour-fine-art-catalog.md )
+[Hugh Percy]( https://evereverland.github.io/#places/theo-armour/hugh-percy/README.md )
+
 ***
 
 Elsewhere on the 'net

@@ -6,7 +6,6 @@
   <figcaption>Elizabeth Full 1</figcaption>
 </figure>
 
-places/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg
 
 <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg" width=100% >
 
@@ -40,6 +39,9 @@ Images of Tocqué's original and the works of others are provided below. Note th
 It appears quit evident that our painting is yet another reproduction of Tocqué's work. Nonetheless it is rewarding to examine the techniques of this work. For example, the brush stokes of details such as the lace on her arms exude confidence. The blending of the skin coloration is a smooth as a baby's bottom. Having said that the image of Elizabeth's face is slightly more doll-like than human-like. Despite the sad amputations she suffered, the presence of an empress of Russia is quite tangible when you stand before her.
 
 
+## Andranik
+
+Andranik: "I’ve spoken with people in art world and there were discussion that the painting could have been painted by one artist whose price of the painting would start for amount of 1.85m$!! "
 
 
 ## Elizabeth of Russia

@@ -9,7 +9,13 @@ File naming conventions
 * "s" = very approximately
 
 
-## Sir Lawrence Alma-Tadema ( )
+## Sir Lawrence Alma-Tadema ( 1836-1912 )
+
+* https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema
+
+Barbara Allison Armour
+https://en.wikipedia.org/wiki/George_Armour
+
 
 ## Vincent Jean-Baptiste Chevilliard (French, 1841-1904)
 

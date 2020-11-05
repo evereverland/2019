@@ -44,6 +44,17 @@ It appears quit evident that our painting is yet another reproduction of Tocqué
 Andranik: "I’ve spoken with people in art world and there were discussion that the painting could have been painted by one artist whose price of the painting would start for amount of 1.85m$!! "
 
 
+
+## Nicholson Advisory
+
+Cousin Tania Katz put me in touch with him.
+
+Nick Nicholson <nick@nicholsonadvisory.com>
+
+* https://nicholsonadvisory.com/
+* https://www.instagram.com/nicholsonadvisoryllc/
+* https://twitter.com/NicholsonAdvise
+
 ## Elizabeth of Russia
 
 * https://en.wikipedia.org/wiki/Elizabeth_of_Russia
@@ -175,6 +186,10 @@ _You may use the pop-up context menu to open images full-size in a new tab._
 </figure>
 
 </details>
+
+### Google Photos Album 
+
+* https://photos.google.com/share/AF1QipO7vlju85F2tld5XpUHUw16CVPnyqXleh2uN4QJHH-pweJfyj-8oQSniwwMhBY__w
 
 ***
 

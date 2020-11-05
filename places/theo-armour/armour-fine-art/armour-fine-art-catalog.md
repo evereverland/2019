@@ -9,6 +9,7 @@ File naming conventions
 * "s" = very approximately
 
 
+## Sir Lawrence Alma-Tadema ( )
 
 ## Vincent Jean-Baptiste Chevilliard (French, 1841-1904)
 

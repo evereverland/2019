@@ -1,6 +1,12 @@
 # Portrait of Elizabeth of Russia Read Me
 
-<img src=https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg width=100% >
+
+<figure>
+  <img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg" alt="Elizabeth Full 1" >
+  <figcaption>Elizabeth Full 1</figcaption>
+</figure>
+
+<img src="https://evereverland.github.io/places/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg" width=100% >
 
 _Portrait of Elizabeth of Russia _
 

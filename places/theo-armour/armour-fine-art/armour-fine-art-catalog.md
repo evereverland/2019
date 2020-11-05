@@ -1,4 +1,4 @@
-# Armour fine art read me
+# Armour Fine Art Catalog
 
 Artists are in alphabetical order
 
@@ -18,9 +18,18 @@ File naming conventions
 * https://www.collectorsweekly.com/stories/262808-a-clear-conscience-by-french-artist-vi?in=activity
 
 
-## Priest reading
+### Priest Reading
 
-<img src="1890s-vincent-chevillard-priest.jpg" width=300 >
+<img src="https://evereverland.github.io/places/theo-armour/armour-fine-art/1890s-vincent-chevilliard-priest.jpg" width=300 >
+_1890s-vincent-chevilliard-priest.jpg_
+
+Dimensions 15 x 10
+
+### Priests on hot day
+
+<img src="https://evereverland.github.io/places/theo-armour/armour-fine-art/1890s-vincent-chevilliard-priests-on-hot-day.jpg" width=300 >
+_1890s-vincent-chevilliard-priests-on-hot-day.jpg_
+
 
 ## Hiroshige
 

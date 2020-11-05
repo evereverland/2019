@@ -1,6 +1,6 @@
 # Theo Armour
 
-[Armour Fine Art Catalog]( https://evereverland.github.io/#places/theo-armour/armour-fine-art-catalog.md )
+[Armour Fine Art Catalog]( https://evereverland.github.io/#places/theo-armour/armour-fine-art/armour-fine-art-catalog.md )
 
 [Barbara Allison Armour]( https://evereverland.github.io/#places/theo-armour/barbara-allison-armour/README.md )
 [Elizabeth]( https://evereverland.github.io/#places/theo-armour/elizabeth/README.md )

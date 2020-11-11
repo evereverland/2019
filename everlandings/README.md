@@ -1,6 +1,8 @@
-# Places Read Me
+# EverLandings Read Me
 
-Your afterlife sampler
+Your afterlife sampler. A selection of web presences that may last until the end of time.
+
+***
 
 The "here and now" for your "there and then"
 

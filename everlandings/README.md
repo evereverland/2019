@@ -4,6 +4,8 @@ Your afterlife sampler. A selection of web presences that may last until the end
 
 ***
 
+Possible subtitles might include:
+
 The "here and now" for your "there and then"
 
 Bridge over the River Styx

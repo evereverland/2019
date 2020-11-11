@@ -145,7 +145,6 @@
 		divDescription.innerHTML = document.head.querySelector( "[ name=description ]" ).content +
 		"<br><br>Update: " + document.head.querySelector( "[ name=version ]" ).content
 
-
 		init();
 
 		function init() {
@@ -168,10 +167,12 @@
 
 				window.history.pushState( "", "", "./" + location.hash );
 
+				GRV.urlViewer = "https://evereverland.github.io/";
 				GRV.ignoreFolders = [ "archive", "drafts", "images", "js", "lib", "src", "templates" ];
 
 			} else {
 
+				GRV.urlViewer = "";
 				GRV.ignoreFolders = [];
 
 			}
@@ -179,7 +180,6 @@
 
 			GRV.urlApi = "https://api.github.com/repos/evereverland/evereverland.github.io/git/trees/master?recursive=1";
 			GRV.urlSource = "https://github.com/evereverland/evereverland.github.io/";
-			GRV.urlViewer = "https://evereverland.github.io/";
 
 
 			GRV.iconOctoCat = `<img width=14 src="${ GRV.urlViewer }lib/icons/octicon.svg">`;
@@ -201,8 +201,6 @@
 
 
 		function onHashChange() {
-
-
 
 			const url = GRV.urlViewer + location.hash.slice( 1 );
 			const title = url.split( "/" ).pop();

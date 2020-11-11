@@ -4,20 +4,19 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,user-scalable=no,minimum-scale=1.0,maximum-scale=1.0" />
-	<meta name="description"
-		content="TooToo 2020 uses the GitHub API to provide access to all the current files hosted with GitHub Pages.">
+	<meta name="description" content="Tools to help you create a presence for your afterlife">
 	<meta name="keywords" content="JavaScript,GitHub,FOSS">
 	<meta name="version" content="2020-09-21">
 
-	<link rel="stylesheet" href="../lib/style/style-2020-09-17.css">
+	<link rel="stylesheet" href="./lib/style/style-2020-09-17.css">
 
 	<style>
 		/* :root {
 			--main-hue: 0;
 			/* 0 to 360 0=red 120=green 240=blue
 		}
-
 		*/
+
 	</style>
 
 
@@ -39,17 +38,17 @@
 
 				<h2>
 
-					<a id=aGithub href="https://github.com/evereverland/tootoo-2020/tree/master/lib"
-						target="_top" title="Source code on GitHub">
-						<img src="../lib/icons/octicon.svg">
+					<a id=aGithub href="https://github.com/evereverland/evereverland.github.io/" target="_top"
+						title="Source code on GitHub">
+						<img src="./lib/icons/octicon.svg">
 					</a>
 
 					<a id=aTitle href="" title="Click to reload this page">
-						TooToo 2020
+						EverEverLand 2020
 					</a>
 
 					<span class="info">
-						<img class=infoImg src="../lib/icons/noun_Information_585560.svg">
+						<img class=infoImg src="./lib/icons/noun_Information_585560.svg">
 						<span id="divDescription" class="infoTooltip gmd-5">
 
 						</span></span>
@@ -60,6 +59,7 @@
 
 			<div id=divNavLog></div>
 
+			<!--
 			<details id=detFile>
 
 				<summary class="summary-primary gmd-1" title="Open files on your device: ">file menu</summary>
@@ -79,28 +79,30 @@
 			</details>
 
 			<details open>
-				<!-- 'open' triggers a run on load -->
+				<!-- 'open' triggers a run on load
 
 				<summary class="summary-primary gmd-1" title="View selected items">repository files
 
-					<span class="info">
-					<img class=infoImg src="../lib/icons/noun_Information_585560.svg">
-					<span id="spnGRV" class="infoTooltip gmd-5">
-						test <button onclick=GRV.test() >view all files in this repository</button>
-					</span></span>
 				</summary>
+				-->
 
-				<div class=divNavResize>
+			<span class="info">
+				<img class=infoImg src="./lib/icons/noun_Information_585560.svg">
+				<span id="spnGRV" class="infoTooltip gmd-5">
+					test <button onclick=GRV.test()>view all files in this repository</button>
+				</span></span>
 
-					<p>Files you can load, view and experiment with:</p>
+			<div class=divNavResize>
 
-					<div id=GRVdivGitHubRepoTreeView></div>
+				<p>Files you can load, view and experiment with:</p>
 
-					<br>
+				<div id=GRVdivGitHubRepoTreeView></div>
 
-				</div>
+				<br>
 
-			</details>
+			</div>
+
+			<!-- </details> -->
 
 			<hr>
 
@@ -131,11 +133,11 @@
 
 	<div id="divPopUp" class="gmd-2">Welcome! </div>
 
-	<script src="../lib/grv-github-repo-tree-view/grv-github-repo-tree-view-2020-09-18.js"></script>
+	<script src="./lib/grv-github-repo-tree-view/grv-github-repo-tree-view-2020-09-18.js"></script>
 
-	<script src="../lib/fo-file-open/foo-file-open-object-2020-07-17.js"></script>
-	<script src="../lib/fo-file-open/foz-file-open-zip-2020-07-07.js"></script>
-	<script src="../lib/fo-file-open/fr-file-reader-2020-07-06.js"></script>
+	<script src="./lib/fo-file-open/foo-file-open-object-2020-07-17.js"></script>
+	<script src="./lib/fo-file-open/foz-file-open-zip-2020-07-07.js"></script>
+	<script src="./lib/fo-file-open/fr-file-reader-2020-07-06.js"></script>
 
 	<script>
 
@@ -176,7 +178,7 @@
 
 
 			GRV.urlApi = "https://api.github.com/repos/evereverland/evereverland.github.io/git/trees/master?recursive=1";
-			GRV.urlSource = "https://github.com/evereverland/evereverland.github.io/";
+			GRV.urlSource = "https://github.com/evereverland/evereverland.github.io/blob/master/";
 			GRV.urlViewer = "https://evereverland.github.io/";
 
 
@@ -192,7 +194,7 @@
 
 		function onHashChange() {
 
-			ifr.src = "../readme.html" + location.hash;
+			ifr.src = "./readme.html" + location.hash;
 
 		}
 

@@ -1,3 +1,4 @@
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://www.ladybug.tools/spider-2020/lib/style/readme.html "View file as a web page." ) </span>
 
 
 
@@ -51,5 +52,5 @@ Switching themes
 
 ***
 
-<center><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❦ </a></center>
+<center title="hello! Click me to go up to the top" ><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❦ </a></center>
 

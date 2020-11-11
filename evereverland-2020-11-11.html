@@ -162,12 +162,11 @@
 			// if running on server, keeps address bar pointed to latest dev
 
 			//if ( !location.hash && location.protocol === "https:" ) {
-
 			if ( location.protocol === "https:" ) {
 
 				window.history.pushState( "", "", "./" + location.hash );
 
-				GRV.urlViewer = "https://evereverland.github.io/";
+				GRV.urlViewer = ""; //"https://evereverland.github.io/";
 				GRV.ignoreFolders = [ "archive", "drafts", "images", "js", "lib", "src", "templates" ];
 
 			} else {

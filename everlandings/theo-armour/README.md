@@ -1,10 +1,10 @@
 # Theo Armour
 
-[Armour Fine Art Catalog]( https://evereverland.github.io/#places/theo-armour/armour-fine-art/armour-fine-art-catalog.md )
+[Armour Fine Art Folder]( #everlandings/theo-armour/armour-fine-art/armour-fine-art-catalog.md )
 
-[Barbara Allison Armour]( https://evereverland.github.io/#places/theo-armour/barbara-allison-armour/README.md )
-[Elizabeth]( https://evereverland.github.io/#places/theo-armour/elizabeth/README.md )
-[Hugh Percy]( https://evereverland.github.io/#places/theo-armour/hugh-percy/README.md )
+[Barbara Allison Armour]( #everlandings/theo-armour/barbara-allison-armour/README.md )
+[Elizabeth]( #everlandings/theo-armour/elizabeth/README.md )
+[Hugh Percy]( #everlandings/theo-armour/hugh-percy/README.md )
 
 ***
 
@@ -17,6 +17,8 @@ Elsewhere on the 'net
 ## [BBN '66]( http://bbn66.com )
 
 ## 2003 [Theo's First Blog]( https://theofirst.blogspot.com/ )
+
+And there are many more places waiting to to be added here
 
 ***
 

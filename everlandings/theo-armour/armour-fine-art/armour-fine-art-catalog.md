@@ -27,14 +27,14 @@ https://en.wikipedia.org/wiki/George_Armour
 
 ### Priest Reading
 
-<img src="https://evereverland.github.io/places/theo-armour/armour-fine-art/1890s-vincent-chevilliard-priest.jpg" width=300 >
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1890s-vincent-chevilliard-priest.jpg" width=300 >
 _1890s-vincent-chevilliard-priest.jpg_
 
 Dimensions 15 x 10
 
 ### Priests on hot day
 
-<img src="https://evereverland.github.io/places/theo-armour/armour-fine-art/1890s-vincent-chevilliard-priests-on-hot-day.jpg" width=300 >
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1890s-vincent-chevilliard-priests-on-hot-day.jpg" width=300 >
 _1890s-vincent-chevilliard-priests-on-hot-day.jpg_
 
 

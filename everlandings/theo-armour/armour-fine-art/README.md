@@ -1,6 +1,6 @@
 # Armour Fine Art read me
 
-## [Armour Fine Art Manifest]( #everlandings/theo-armour/armour-fine-art/armour-fine-art-manifest.md )
+## [Armour Fine Art Manifest]( #everlandings/theo-armour/armour-fine-art/2020-armour-fine-art-manifest.md )
 
 Simple list of items with images, sizes and location
 

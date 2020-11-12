@@ -8,6 +8,8 @@ Possible subtitles might include:
 
 The "here and now" for your "there and then"
 
+Long from now and close by, there you were ...
+
 Bridge over the River Styx
 
 The pearly gates to your living memorial

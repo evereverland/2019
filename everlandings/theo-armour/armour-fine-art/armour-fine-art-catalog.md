@@ -1,20 +1,45 @@
 # Armour Fine Art Catalog
 
-Artists are in alphabetical order
+Works are listed by artist are in alphabetical order
 
 File naming conventions
 
 * Generally: date-artist-subject
-* "~" = approximately
-* "s" = very approximately
+* "1921~" = approximately that year
+* "1920s" = very approximately, that decade maybe
 
+***
 
 ## Sir Lawrence Alma-Tadema ( 1836-1912 )
 
 * https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema
+* https://www.britannica.com/biography/Lawrence-Alma-Tadema
+* https://www.alma-tadema.org/
+* http://www.lawrencealmatadema.org/paintings/
 
-Barbara Allison Armour
-https://en.wikipedia.org/wiki/George_Armour
+
+Portrait of Barbara Allison Armour
+
+* Dimensions: 24 x 17-3/4
+* Signed by the artist
+* Lavish wood frame with gold paint with initials "AT"
+	* Verbal offer of $70,000 for frame from Madison Avenue frame dealer in 1997
+* Receipt from artist fo 500 pounds sterling
+
+Barbara Allison Armour ( 1826-1898)
+
+![]( https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg/664px-1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg )
+
+* https://commons.wikimedia.org/wiki/File:1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg
+* Born East Kilbrich, Scotland
+* Wife of [George Armour]( https://en.wikipedia.org/wiki/George_Armour )
+	* Built first grain elevators inChicago
+	* President Chicago Board of Trade
+	* First president Chicago Art Institute
+	* See also etching by Zorn
+	* Photograph in finery
+	* Portrait of her son John Armour by GPA Healy
+	* https://www.findagrave.com/memorial/112151576/barbara-armour
 
 
 ## Vincent Jean-Baptiste Chevilliard (French, 1841-1904)
@@ -38,20 +63,11 @@ Dimensions 15 x 10
 _1890s-vincent-chevilliard-priests-on-hot-day.jpg_
 
 
-## Hiroshige
-
-### 1957 Sudden Shower over Shin-Ōhashi bridge and Atake
-
-* https://en.wikipedia.org/wiki/Sudden_Shower_over_Shin-%C5%8Chashi_bridge_and_Atake
-* https://www.sothebys.com/en/auctions/ecatalogue/2017/chinese-art-hk0732/lot.760.html
-* http://www.artnet.com/artists/utagawa-hiroshige/sudden-shower-over-shin-ohashi-bridge-and-atake-0p8vdPRr8zM6lLRMTMbIWQ2
-
-Note that our version does not have stamps in margin and stamp at top is not in color
-
-
 
 
 ## Albrecht Dürer
+
+![]( 1514-albrecht-durer-five-saints.jpg )
 
 * 1514 ~ https://en.wikipedia.org/wiki/File:61_The_Apostle_Paul.jpg
 * 1514 ~ https://en.wikipedia.org/wiki/File:62_The_Apostle_Thomas.jpg
@@ -65,7 +81,19 @@ Note that our version does not have stamps in margin and stamp at top is not in 
 
 * https://en.wikipedia.org/wiki/George_Peter_Alexander_Healy
 
-### John William Armour (185101865)
+### John William Armour (1851-1865)
+
+
+
+## Hiroshige
+
+### 1957 Sudden Shower over Shin-Ōhashi bridge and Atake
+
+* https://en.wikipedia.org/wiki/Sudden_Shower_over_Shin-%C5%8Chashi_bridge_and_Atake
+* https://www.sothebys.com/en/auctions/ecatalogue/2017/chinese-art-hk0732/lot.760.html
+* http://www.artnet.com/artists/utagawa-hiroshige/sudden-shower-over-shin-ohashi-bridge-and-atake-0p8vdPRr8zM6lLRMTMbIWQ2
+
+Note that our version does not have stamps in margin and stamp at top is not in color
 
 
 ## Max Moreau
@@ -73,6 +101,7 @@ Note that our version does not have stamps in margin and stamp at top is not in 
 * https://fr.wikipedia.org/wiki/Max_Moreau
 * http://www.artnet.com/artists/max-moreau-2/2
 * http://wiki.cultured.com/people/Max_Moreau/
+
 
 ## Giovanni Battista Piranesi
 
@@ -126,3 +155,4 @@ https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi
 * https://www.artic.edu/artworks/55266/mrs-armour
 * http://www.zorninamerica.com/ZornandStGaudens.html
 * http://www.zorninamerica.com/Subpages/zia/Subjects/ZiaSubjects3.html
+* https://www.alamy.com/stock-photo-1894-barbara-allison-armour-etching-by-anders-zorn-142555685.html

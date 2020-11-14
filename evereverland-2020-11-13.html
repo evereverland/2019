@@ -189,10 +189,11 @@
 			GRV.urlApi = "https://api.github.com/repos/evereverland/evereverland.github.io/git/trees/master?recursive=1";
 			GRV.urlSource = "https://github.com/evereverland/evereverland.github.io/";
 
-
 			GRV.iconOctoCat = `<img width=14 src="${ GRV.urlViewer }lib/icons/octicon.svg">`;
 
 			GRV.link = `<img width=14 src="${ GRV.urlViewer }lib/icons/icon-link-external.svg">`;
+
+			GRV.getFiles = GRV.getFilesSimple;
 
 			GRV.init();
 
@@ -211,7 +212,7 @@
 		function onHashChange() {
 
 			const url = GRV.urlViewer + location.hash.slice( 1 );
-			//console.log( "url", url );
+			console.log( "url", url );
 			const title = url.split( "/" ).pop();
 			const extension = title.toLowerCase().split( '.' ).pop();
 

@@ -1,10 +1,15 @@
 # Barbara Allison Armour (1826-1898)
 
+## About Barbara
+
 * https://www.wikitree.com/wiki/Allison-5189
 * https://www.findagrave.com/memorial/112151576/barbara-armour
 * https://chicagotribune.newspapers.com/clip/34324626/armourbarbara-allison-death-details/
 * Born East Kilbrich, Scotland; Died in Charleston, South Carolina; Buried Chicago, Illinois
-* Lived at 1945 Prairie Avenue and 117 Lake Shore Drive
+	* http://lakecountyhistory.blogspot.com/2011/11/james-mckay-sheriff-and-mayor-of.html
+	> In 1847, McKay married Margaret Allison.
+* Lived at 1945 Prairie Avenue and 117 Lake Shore Drive in Chicago
+	* https://www.stcroixarchitecture.com/products/house-of-mrs-barbara-armour-117-lake-shore-drive-chicago-il-1896-francis-m-whitehouse
 * Wife of [George Armour]( https://en.wikipedia.org/wiki/George_Armour )
 	* Built first grain elevators inChicago
 	* President Chicago Board of Trade
@@ -13,15 +18,28 @@
 
 ## Theo Armour recollections
 
-My great Aunt, Barbara Armour Lowrie told me two things that I remember about her grandmother:
+My great aunt Barbara Armour Lowrie - named after her grandmother - told me two things that I remember about her grandmother:
 
-* She was know as Madam Armour and the the other Armour (the meat-packing one) was know as Mrs Armour.
-* She had a pet canary that would ride along on the train of her dress.
+* Barbara was known as "Madam Armour" and the the other Armour (the meat-packing one) was know as "Mrs Armour".
+* Barbara had a pet canary that would ride along on the train of her dress.
 
 Also
 
-* One son, George, went to Andover. Another, Allison, went to the Harvard School in Chicago
+* She outlived most of her children
+* One son, George, went to Andover. Another son, Allison, went to the Harvard School in Chicago
 * Her house on Lake Shore Drive was designed by her son-in-law Francis Whitehouse
+
+## A collection of note
+
+Barbara and her husband George the positive outcomes of a rags to riches story. Fifteen years after her first arrival in minor town in the American midwest, she had her potrait painted in London by a renowned portraitist - Sit Lawrence Alma Tadema. Thirty years later she sits for Anders Zorn. She commissions a portrait painted by C PA Healy and a bas-relief by an unknown sculptor of one of her sons.
+
+It would be nice if these works can stay together.
+
+Given that George was the first president of the Art Institute, it makes sense that the Institute should receive the works as a collection.
+
+
+
+
 
 ***
 

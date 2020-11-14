@@ -1,4 +1,4 @@
-# [Internet Archive Read Me]( ./readme.html )
+# [Archive Read Me]( ./readme.html )
 
 <!--
 <div style=height:300px;overflow:hidden;width:100%;resize:both; ><iframe src=https://evereverland.github.io/lib/style/ height=100% width=100% ></iframe></div>
@@ -10,7 +10,6 @@ _Spider /lib/style_
 
 ## Concept
 
-https://archive.org
 
 ## To Do / Wish List
 
@@ -23,7 +22,9 @@ https://archive.org
 
 ## Change Log
 
-### 2020-11-11
+### 2020-11-13
+
+* first commit
 
 
 ***

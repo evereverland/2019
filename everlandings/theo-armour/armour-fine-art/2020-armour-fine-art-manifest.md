@@ -6,12 +6,14 @@ A list of the works of art located at Theo Armour's apartment 2101 at 440 Davis 
 
 All dimensions include the frame and are approximate, height first then width, all in inches
 
+Titling: Date of creation, artist, title
+
 2020-11-15: Three works are now at Heritage on the Marina, Apt 227
 
 
 ***
 
-## 1514-albrecht-durer-five-saints.jpg
+## 1514-1524 Albrecht Durer Five Saints
 
 <img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1514-albrecht-durer-five-saints.jpg" style="width:300px;" >
 
@@ -19,7 +21,7 @@ Media: Etching
 Dimensions: 8 x 30
 Location: hall
 
-## 1700s-unknown-venetian-fantasy-1.jpg
+## 1700s Unknown ~ Venetian Fantasy 1
 
 <img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1700s-unknown-venetian-fantasy-1.jpg" style="width:300px;" >
 
@@ -43,9 +45,9 @@ Media: Oil on canvas
 Dimensions: 33 x 33
 Location: bedroom
 
-## 1750~-unknown-venetian-fantasy.png
+## 1700~-unknown-venetian-fantasy.png
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1750~-unknown-venetian-fantasy.png" style="width:300px;" >
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1700s-unknown-venetian-fantasy.png" style="width:300px;" >
 
 Media: Oil on canvas
 Dimensions: 17 x 13
@@ -53,7 +55,7 @@ Location: living room
 
 ## 1750~-piranesi-carceri-plate-ii.jpg
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1750~-piranesi-carceri-plate-ii" style="width:300px;" >
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1750~-piranesi-carceri-plate-ii.jpg" style="width:300px;" >
 
 Media: Etching
 Dimensions: 30 x 24

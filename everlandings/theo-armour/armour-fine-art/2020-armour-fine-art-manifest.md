@@ -6,6 +6,9 @@ A list of the works of art located at Theo Armour's apartment 2101 at 440 Davis 
 
 All dimensions include the frame and are approximate, height first then width, all in inches
 
+2020-11-15: Three works are now at Heritage on the Marina, Apt 227
+
+
 ***
 
 ## 1514-albrecht-durer-five-saints.jpg

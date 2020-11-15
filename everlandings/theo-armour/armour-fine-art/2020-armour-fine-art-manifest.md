@@ -327,7 +327,7 @@ Location: bedroom
 
 ## 1954-jean-r-theo.jpg
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1954-jean-r-theo.jpg" style="width:=300px;" >
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1954-jean-r-theo.jpg" style="width:300px;" >
 
 Media: Drawing
 Dimensions: ~ 18 x 12
@@ -394,7 +394,7 @@ Location: hall
 <img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1980~-jeremy-brooke-woman-playing-instrument.jpg" style="width:300px;" >
 
 Media: Drawing
-Dimensions: 9 x 9
+Dimensions: 9 x 11
 Location: hall
 
 ## 2010~-unknown-joshua-tree-alix-theo.jpg

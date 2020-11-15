@@ -155,9 +155,9 @@ Media: Oil on canvas
 Dimensions: 28 x 23
 Location: bedroom
 
-## 1865~-unknown-john-armour-william.jpg
+## 1865~-uknown-john-william-armour.jpg
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865~-unknown-john-armour-william.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865~-uknown-john-william-armour.jpg" style="width:300px;" >
 
 Media: bas-relief in marble
 Dimensions: 9 x 12

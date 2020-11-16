@@ -13,8 +13,6 @@ Can we all suggest one or two or more thoughts?
 
 * To capture, preserve, index and make readily available forever at no charge to the people of the future the data created by the people of today
 * "Your grandmother has a great recipe for preserves? Great!. We can preserve it with no expiry date. For one dollar per page."
-
-
 * Develop and document methods, standards and tools usable by anybody
 	* Fingers crossed, business develops and we get customers
 * Get everything online, indexed and viewable

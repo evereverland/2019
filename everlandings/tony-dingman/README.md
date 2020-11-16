@@ -4,11 +4,11 @@ A home page for the poems of Tony Dingman.
 
 A drinking buddy with whom I'm a big fan.
 
-Every day we writes a rhyme.
+Every day he writes a rhyme.
 
-Perhaps until the end time.
+Perhaps until the end of time.
 
-I hope he writes better than I can.
+Here's hoping he writes much better than I can.
 
 
 

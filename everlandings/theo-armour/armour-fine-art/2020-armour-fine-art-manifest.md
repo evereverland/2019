@@ -6,7 +6,7 @@ A list of the works of art located at Theo Armour's apartment 2101 at 440 Davis 
 
 All dimensions include the frame and are approximate, height first then width, all in inches
 
-Titling: Date of creation, artist, title
+Titling: Date of creation, artist, title of the work
 
 2020-11-15: Three works are now at Heritage on the Marina, Apt 227
 
@@ -29,7 +29,7 @@ Media: Oil on canvas
 Dimensions: 30 x 42
 Location: living room
 
-## 1700s-unknown-venetian-fantasy-2.jpg
+## 1700s Unknown Venetian Fantasy2
 
 <img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1700s-unknown-venetian-fantasy-2.jpg" style="width:300px;" >
 
@@ -37,7 +37,7 @@ Media: Oil on canvas
 Dimensions: 30 x 42
 Location: living room
 
-## 1700s-unknown-venetian-fantasy-round.jpg
+## 1700s Unknown Venetian-Fantasy Round
 
 <img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1700s-unknown-venetian-fantasy-round.jpg" style="width:300px;" >
 
@@ -53,7 +53,7 @@ Media: Oil on canvas
 Dimensions: 17 x 13
 Location: living room
 
-## 1750~-piranesi-carceri-plate-ii.jpg
+## 1750~ Piranesi Carceri Plate II.jpg
 
 <img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1750~-piranesi-carceri-plate-ii.jpg" style="width:300px;" >
 
@@ -149,7 +149,7 @@ Media: Oil on canvas
 Dimensions: 21-1/2 x 43-1/2
 Location: living room
 
-## 1865-gpa-healey-john-armour.jpg
+## 1865 G P A Hhealey ~ John Armour
 
 <img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865-gpa-healy-john-armour.jpg" style="width:300px;" >
 
@@ -157,9 +157,9 @@ Media: Oil on canvas
 Dimensions: 28 x 23
 Location: bedroom
 
-## 1865~-uknown-john-william-armour.jpg
+## 1865~-unknown-john-william-armour.jpg
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865~-uknown-john-william-armour.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865~-unknown-john-william-armour.jpg" style="width:300px;" >
 
 Media: bas-relief in marble
 Dimensions: 9 x 12

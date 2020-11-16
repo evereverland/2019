@@ -11,10 +11,12 @@
 * Lived at 1945 Prairie Avenue and 117 Lake Shore Drive in Chicago
 	* https://www.stcroixarchitecture.com/products/house-of-mrs-barbara-armour-117-lake-shore-drive-chicago-il-1896-francis-m-whitehouse
 * Wife of [George Armour]( https://en.wikipedia.org/wiki/George_Armour )
-	* Built first grain elevators inChicago
+	* Built first grain elevators in Chicago
 	* President Chicago Board of Trade
+	* Established the first systems of commidities futures
 	* First president Chicago Art Institute
 	* https://www.wikitree.com/wiki/Armour-829
+
 
 ## Theo Armour recollections
 
@@ -26,19 +28,17 @@ My great aunt Barbara Armour Lowrie - named after her grandmother - told me two 
 Also
 
 * She outlived most of her children
-* One son, George, went to Andover. Another son, Allison, went to the Harvard School in Chicago
+* One son, George, went to Andover School in Massachusetts. Another son, Allison, went to the Harvard School in Chicago
 * Her house on Lake Shore Drive was designed by her son-in-law Francis Whitehouse
+
 
 ## A collection of note
 
-Barbara and her husband George the positive outcomes of a rags to riches story. Fifteen years after her first arrival in minor town in the American midwest, she had her potrait painted in London by a renowned portraitist - Sit Lawrence Alma Tadema. Thirty years later she sits for Anders Zorn. She commissions a portrait painted by C PA Healy and a bas-relief by an unknown sculptor of one of her sons.
+Barbara and her husband George are the positive outcomes of a rags to riches story. Just fifteen years after her first arrival in small town in the American midwest, Waukegan IL, she had her portrait painted in London by a renowned portraitist - Sir Lawrence Alma Tadema. Thirty years later she sat for the Swedish artist, Anders Zorn. She commissions a portrait painted by C PA Healy and a bas-relief by an unknown sculptor of one of her sons.
 
-It would be nice if these works can stay together.
+It would be nice if the works listed on this page could stay together as a collection.
 
-Given that George was the first president of the Art Institute, it makes sense that the Institute should receive the works as a collection.
-
-
-
+Given that George was the first president of the Chicago Art Institute, it makes sense that the Institute should receive the works as a collection.
 
 
 ***
@@ -104,14 +104,15 @@ Works portraying Barbara Allison Armour son
 
 ### John William Armour
 
-![]( 1863-g-b-healey-john-armour-1865.jpg )
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865~-unknown-john-william-armour.jpg" style="width:300px;" >
+
 
 * Dimensions: 23 x 28
 * Signed "G P A Healy"
 
 
 
-## Unknown sculptor ~ 1864~
+##  1864 Unknown sculptor ~
 
 bas relief
 

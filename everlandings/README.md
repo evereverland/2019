@@ -1,6 +1,8 @@
 # EverLandings Read Me
 
-Your afterlife sampler. A selection of web presences that may last until the end of time.
+Your afterlife sampler. A selection of web presences we have built for people that may last until the end of time.
+
+"Everlandings" is a clumsy name. Before it was called "Places". How about "[Elysian Fields]( https://en.wikipedia.org/wiki/Elysium )"? Or "Heaven"? "Paradise"?
 
 ***
 

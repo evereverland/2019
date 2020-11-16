@@ -51,5 +51,5 @@ Switching themes
 
 ***
 
-<center><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❦ </a></center>
+<center><a href=javascript:window.scrollTo(0,0); class=aDingbat > ❧ </a></center>
 

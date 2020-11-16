@@ -149,7 +149,7 @@ Media: Oil on canvas
 Dimensions: 21-1/2 x 43-1/2
 Location: living room
 
-## 1865 G P A Hhealey ~ John Armour
+## 1865 G P A Healey ~ John Armour
 
 <img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865-gpa-healy-john-armour.jpg" style="width:300px;" >
 
@@ -417,3 +417,4 @@ Sculpture of a bearded Roman
 
 ***
 
+<center title="You have reached the end of the line" ><a title="Return to top" href="javascript:window.scrollTo(0,0);" class=aDingbat > ❧ </a></center

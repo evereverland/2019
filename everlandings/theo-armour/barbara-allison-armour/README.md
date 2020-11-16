@@ -52,12 +52,12 @@ _Works that portray Barbara Allison Armour_
 * https://www.alma-tadema.org/
 * http://www.lawrencealmatadema.org/paintings/
 
+##  1865 ~ Portrait of Barbara Allison Armour
 
 ![]( https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg/664px-1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg )
 
 * https://commons.wikimedia.org/wiki/File:1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg
 
-Portrait of Barbara Allison Armour ~ 1865
 
 * Dimensions: 24 x 17-3/4
 * Signed by the artist
@@ -78,6 +78,8 @@ Portrait of Barbara Allison Armour ~ 1865
 
 ### Mrs. Armour ~  1894
 
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1894-anders-zorn-mrs-armour.jpg" style="width:300px;" >
+
 * Dimensions: 10 x 15
 * https://www.artic.edu/artworks/55266/mrs-armour
 * http://www.zorninamerica.com/ZornandStGaudens.html
@@ -96,7 +98,7 @@ Location: bedroom
 
 ***
 
-Works portraying Barbara Allison Armour son
+Works portraying Barbara Allison Armour's son
 
 ## George Peter Alexander Healy
 
@@ -106,19 +108,19 @@ Works portraying Barbara Allison Armour son
 
 <img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865~-unknown-john-william-armour.jpg" style="width:300px;" >
 
-
 * Dimensions: 23 x 28
 * Signed "G P A Healy"
 
 
 
-##  1864 Unknown sculptor ~
+##  1864 Unknown sculptor
+
 
 bas relief
 
-### John William Armour
+### John William Armour (1851-1865)
 
-![]( john-armour-1865-bas-relief.jpg )
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865~-unknown-john-william-armour.jpg" style="width:300px;" >
 
 Dimensions: 9 x 12
 
@@ -158,10 +160,11 @@ Location: hall
 Dimensions: 21-1/2" x 43-1/2"
 Location: living room
 
-* Date: Note men wearing "stovepipe" tophats ~ fashionalbe in the 1860s
+* Date: Note men wearing "stovepipe" top hats ~ fashionable in the 1860s
 * Painted in the style of Canaletto
-* Probably typical of paintings sold to Venice tourists in that era
+* Probably typical of paintings sold to tourists in Venice in that era
 
 
 ***
 
+<center title="You have reached the end of the line" ><a title="Return to top" href="javascript:window.scrollTo(0,0);" class=aDingbat > ❧ </a></center

@@ -83,7 +83,8 @@ _1890s-vincent-chevilliard-priests-on-hot-day.jpg_
 
 * https://en.wikipedia.org/wiki/George_Peter_Alexander_Healy
 
-### John William Armour (1851-1865)
+Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/#everlandings/theo-armour/barbara-allison-armour/README.md )
+
 
 
 
@@ -109,6 +110,7 @@ Note that our version does not have stamps in margin and stamp at top is not in 
 
 https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi
 
+
 ### Vedute di Roma (Views of Rome) !ca. 1750–78
 
 * https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi#The_Views_(Vedute)
@@ -119,6 +121,7 @@ https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi
 ### The Prisons (Carceri)
 
 * https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi#The_Prisons_(Carceri)
+
 
 ### Plate VII
 
@@ -158,3 +161,7 @@ https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi
 * http://www.zorninamerica.com/ZornandStGaudens.html
 * http://www.zorninamerica.com/Subpages/zia/Subjects/ZiaSubjects3.html
 * https://www.alamy.com/stock-photo-1894-barbara-allison-armour-etching-by-anders-zorn-142555685.html
+
+***
+
+<center title="You have reached the end of the line" ><a title="Return to top" href="javascript:window.scrollTo(0,0);" class=aDingbat > ❧ </a></center

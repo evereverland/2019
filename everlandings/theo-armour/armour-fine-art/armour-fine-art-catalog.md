@@ -145,22 +145,32 @@ https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi
 
 
 
-## 1859 James McNeill Whistler
+## James McNeill Whistler
 
-### Billingsgate
+### 1859 ~ Billingsgate
 
 * https://www.metmuseum.org/art/collection/search/372512
 * https://www.christies.com/lotfinder/Lot/james-abbott-mcneill-whistler-1834-1903-billingsgate-6020317-details.aspx
 
 
-## 1894 Anders Zorn
+## Anders Zorn
 
-### Mrs. Armour
+* https://en.wikipedia.org/wiki/Anders_Zorn
+* https://www.britannica.com/biography/Anders-Zorn
+* https://zorn.se/en/
+* https://artsandculture.google.com/entity/anders-zorn/m0192xw?hl=en
+* https://www.wikiart.org/en/anders-zorn
+* https://www.artic.edu/collection?artist_ids=Anders%20Zorn&page=3
+
+### 1894 ~ Mrs. Armour
+
+Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/#everlandings/theo-armour/barbara-allison-armour/README.md )
 
 * https://www.artic.edu/artworks/55266/mrs-armour
 * http://www.zorninamerica.com/ZornandStGaudens.html
 * http://www.zorninamerica.com/Subpages/zia/Subjects/ZiaSubjects3.html
 * https://www.alamy.com/stock-photo-1894-barbara-allison-armour-etching-by-anders-zorn-142555685.html
+
 
 ***
 

@@ -1,12 +1,17 @@
 # Armour Fine Art Catalog
 
-Works are listed by artist are in alphabetical order
+Works are listed by artist in alphabetical order
 
 File naming conventions
 
 * Generally: date-artist-subject
 * "1921~" = approximately that year
 * "1920s" = very approximately, that decade maybe
+
+See [Armour Fine Art Manifest]( #everlandings/theo-armour/armour-fine-art/2020-armour-fine-art-manifest.md )
+
+* Simple list of all items in collection with images, sizes and location.
+* Intended for use in obtaining moving and storage quotations.
 
 ***
 
@@ -33,15 +38,7 @@ Barbara Allison Armour ( 1826-1898)
 ![]( https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg/664px-1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg )
 
 * https://commons.wikimedia.org/wiki/File:1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg
-* Born East Kilbrich, Scotland
-* Wife of [George Armour]( https://en.wikipedia.org/wiki/George_Armour )
-	* Built first grain elevators inChicago
-	* President Chicago Board of Trade
-	* First president Chicago Art Institute
-	* See also etching by Zorn
-	* Photograph in finery
-	* Portrait of her son John Armour by GPA Healy
-	* https://www.findagrave.com/memorial/112151576/barbara-armour
+
 
 
 ## Vincent Jean-Baptiste Chevilliard (French, 1841-1904)
@@ -51,6 +48,7 @@ Barbara Allison Armour ( 1826-1898)
 * https://www.christies.com/lotfinder/Lot/vincent-jean-baptiste-chevilliard-french-1841-1904-5647721-details.aspx
 * https://www.collectorsweekly.com/stories/262808-a-clear-conscience-by-french-artist-vi?in=activity
 
+Possible destination: Musée d'Orsay
 
 ### Priest Reading
 
@@ -63,8 +61,6 @@ Dimensions 15 x 10
 
 <img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1890s-vincent-chevilliard-priests-on-hot-day.jpg" width=300 >
 _1890s-vincent-chevilliard-priests-on-hot-day.jpg_
-
-
 
 
 ## Albrecht Dürer
@@ -85,7 +81,13 @@ _1890s-vincent-chevilliard-priests-on-hot-day.jpg_
 
 Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/#everlandings/theo-armour/barbara-allison-armour/README.md )
 
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865-gpa-healy-john-armour.jpg" style="width:300px;" >
 
+_John Armour_
+
+Media: Oil on canvas
+Dimensions: 28 x 23
+Location: bedroom
 
 
 ## Hiroshige
@@ -96,8 +98,13 @@ Please see the page that describes this artist and also other works that relate 
 * https://www.sothebys.com/en/auctions/ecatalogue/2017/chinese-art-hk0732/lot.760.html
 * http://www.artnet.com/artists/utagawa-hiroshige/sudden-shower-over-shin-ohashi-bridge-and-atake-0p8vdPRr8zM6lLRMTMbIWQ2
 
-Note that our version does not have stamps in margin and stamp at top is not in color
+Note that our version does not have stamps in margin and stamp at top is not in color. Therefore not likely to be from an early, quite valuable printing.
 
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1857-hiroshige-sudden-shower-over-bridge.jpg" style="width:300px;" >
+
+Media: Block print
+Dimensions: ~ 18 x 12
+Location: hall
 
 ## Max Moreau
 
@@ -105,6 +112,14 @@ Note that our version does not have stamps in margin and stamp at top is not in 
 * http://www.artnet.com/artists/max-moreau-2/2
 * http://wiki.cultured.com/people/Max_Moreau/
 
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1952-max-moreau-norman-armour.jpg" style="width:300px;" >
+
+Norman Armour
+
+1952
+Media: Watercolor
+Dimensions: 26 x 24
+Location: bedroom
 
 ## Giovanni Battista Piranesi
 
@@ -142,7 +157,13 @@ https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi
 * https://www.invaluable.com/artist/pike-olive-znead3u17t/sold-at-auction-prices/
 * https://www.mutualart.com/Artist/Olive-Snell/FB5BA91B7AF18896
 
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1921-olive-snell-myra-koudachev-armour.jpg" style="width:300px;" >
 
+_Myra Kudashev Armour_
+
+Media: Drawing
+Dimensions: ~ 18 x 12
+Location: bedroom
 
 
 ## James McNeill Whistler
@@ -152,6 +173,11 @@ https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi
 * https://www.metmuseum.org/art/collection/search/372512
 * https://www.christies.com/lotfinder/Lot/james-abbott-mcneill-whistler-1834-1903-billingsgate-6020317-details.aspx
 
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1859-james-whistler-billingsgate.jpg" style="width:300px;" >
+
+Media: Etching
+Dimensions: 10 x 15
+Location: hall
 
 ## Anders Zorn
 
@@ -171,7 +197,14 @@ Please see the page that describes this artist and also other works that relate 
 * http://www.zorninamerica.com/Subpages/zia/Subjects/ZiaSubjects3.html
 * https://www.alamy.com/stock-photo-1894-barbara-allison-armour-etching-by-anders-zorn-142555685.html
 
+<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1894-anders-zorn-mrs-armour.jpg" style="width:300px;" >
+
+_Mrs. Armour_
+
+Media: Etching
+Dimensions: 15 x 10
+Location: hall
 
 ***
 
-<center title="You have reached the end of the line" ><a title="Return to top" href="javascript:window.scrollTo(0,0);" class=aDingbat > ❧ </a></center
+<center title="You have reached the end of the line" ><a title="Return to top" href="javascript:window.scrollTo(0,0);" class=aDingbat > ❧ </a></center>

@@ -3,7 +3,7 @@
 ## [Armour Fine Art Manifest]( https://evereverland.github.io/#everlandings/theo-armour/armour-fine-art/2020-armour-fine-art-manifest.md )
 
 * Simple list of items with images, sizes and location
-* Created iin order to obtain quotes from moving and storage contractors
+* Created in order to obtain quotes from moving and storage contractors
 
 
 ## [Armour Fine Art Catalog]( https://evereverland.github.io/#everlandings/theo-armour/armour-fine-art/armour-fine-art-catalog.md )

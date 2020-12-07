@@ -20,7 +20,8 @@ A number of items in the collection are of museum quality and are worthy of docu
 
 ## [Armour Fine Art Manifest]( #everlandings/theo-armour/armour-fine-art/2020-armour-fine-art-manifest.md )
 
-Simple list of items with images, sizes and location. Intended for use in obtaining moving and storage quotations.
+* Simple list of items with images, sizes and location.
+* Intended for use in obtaining moving and storage quotations.
 
 
 

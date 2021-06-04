@@ -125,7 +125,6 @@ Where is all of this data going to be stored?
 	* Narcissists ;-)
 
 
-
 ## How
 
 * Sell then design then build
@@ -141,7 +140,6 @@ Where is all of this data going to be stored?
 * 1/2 Dozen use cases
 * What is the yield?
 * 3 months to obtain responses.
-
 
 
 <hr>

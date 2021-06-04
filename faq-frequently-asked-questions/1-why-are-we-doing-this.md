@@ -68,7 +68,6 @@ Here are things we would like to help people achieve. What wer are and do at som
 	* https://www.pmi.org/learning/library/lessons-learned-next-level-communicating-7991
 
 
-
 ***
 
 <center title="hello!" ><a href=javascript:window.scrollTo(0,0); class=aDingbat title="Go to top of page" > ❦ </a></center>

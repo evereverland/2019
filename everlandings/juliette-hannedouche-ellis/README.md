@@ -1,7 +1,8 @@
-# [![](https://evereverland.github.io/lib/assets/icons/mark-github.svg )](https://github.com/evereverland/evereverland.github.io/tree/master/everlandings "Source code on GitHub" ) [EverEverLand]( https://evereverland.github.io/ "Home page" ) / [Juliette Hannedouche Ellis]( https://evereverland.github.io/#evereverlandings/juliette-hannedouche-ellis/README.md)
+# [![](https://evereverland.github.io/lib/assets/icons/mark-github.svg )](https://github.com/evereverland/evereverland.github.io/tree/master/everlandings "Source code on GitHub" ) [EverEverLand]( https://evereverland.github.io/ "Home page" ) / [Juliette Hannedouche Ellis]( https://evereverland.github.io/#everlandings/juliette-hannedouche-ellis/README.md)
 
 ## https://juliettehannedoucheellis.wordpress.com/
 
+<br>
 
 Son pays était trop petit alors Juliette a traversé les océans.
 

@@ -1,6 +1,6 @@
-# # [![](https://evereverland.github.io/lib/assets/icons/mark-github.svg )](https://github.com/evereverland/evereverland.github.io/tree/master/everlandings "Source code on GitHub" ) [EverEverLand]( https://evereverland.github.io/ "Home page" ) / [ZZZZZ Read Me]( https://evereverland.github.io/#evereverlandings/juliette-hannedouche-ellis/README.md)
+# [![](https://evereverland.github.io/lib/assets/icons/mark-github.svg )](https://github.com/evereverland/evereverland.github.io/tree/master/everlandings "Source code on GitHub" ) [EverEverLand]( https://evereverland.github.io/ "Home page" ) / [Juliette Hannedouche Ellis]( https://evereverland.github.io/#evereverlandings/juliette-hannedouche-ellis/README.md)
 
-https://juliettehannedoucheellis.wordpress.com/
+## https://juliettehannedoucheellis.wordpress.com/
 
 
 Son pays était trop petit alors Juliette a traversé les océans.
@@ -17,10 +17,10 @@ But even there there wasn’t enough room, so this morning Juliette went up ther
 
 Up there where the sky is always blue, up there where there are no borders, up there where all people are equal and happy.
 
-***
 
 Philippe Hannedouche
 
+<br>
 
 ***
 

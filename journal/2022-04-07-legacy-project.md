@@ -1,6 +1,6 @@
 # Legacy Project
 
-The following text has been extracted from thi link:
+The following text has been extracted from this link:
 
 https://astralcodexten.substack.com/p/acx-grants-the-second-half
 
@@ -25,7 +25,6 @@ legacyproject@protonmail.com
 
 Is there a connection between the above text and one of these projects:
 
-
 * https://legacyproject.org/ ?
 * https://legacyproject.human.cornell.edu/
 * http://www.ucsflegacyproject.com/about
@@ -39,7 +38,7 @@ Or many more
 
 The text and the various web sites appear to focus on older individuals and the idea of creating media celebrating or commemorating that person.
 
-There could be more
+There could be more:
 
 * Providing resources for the historian of the future investigating the plight and life of ordinary people
 * Capturing multi-generational aspects

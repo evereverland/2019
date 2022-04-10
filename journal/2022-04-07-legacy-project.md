@@ -24,6 +24,8 @@ Each of these five components might require a team of professionals. However, th
 
 legacyproject@protonmail.com
 
+
+
 ***
 
 Below are some of my first reflections. More later.

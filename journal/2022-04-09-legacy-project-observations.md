@@ -2,15 +2,16 @@
 ## Legacy Project Observations
 
 
-## 1. simple tools for collecting the materia
+## 1. simple tools for collecting the material
 
-simple tools for collecting the material: A well-designed web form with prompts for significant memories, vital stats, family medical history, ethical will, and so on; and tools for collecting, tagging, and preserving photos, videos, and other media.
+> First, simple tools for collecting the material: A well-designed web form with prompts for significant memories, vital stats, family medical history, ethical will, and so on; and tools for collecting, tagging, and preserving photos, videos, and other media.
 
 Building web pages to help with gathering data and archiving is certainly doable
 
 On the other hand many people may prefer off-loading the task tp other. Why spend time documenting your life when you could have more fun just living your life.
 
 Creating a new industry around this process may be more efficacious.
+
 
 ## 2. plan for long-term preservation
 
@@ -49,6 +50,12 @@ Every has an inner voice. Some inner voices are nearly mute; others shout non-st
 
 There will be a point in time when sufficient remarkable lives are open for gaming. After that there will be no looking back to the time when there was no looking back.
 
+
+
+
+***
+
+Below is the start of another approach. More Later.
 
 ## Who
 

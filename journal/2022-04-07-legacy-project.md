@@ -2,9 +2,11 @@
 
 The text in the following section has been extracted from this link:
 
-https://astralcodexten.substack.com/p/acx-grants-the-second-half
+* https://astralcodexten.substack.com/p/acx-grants-the-second-half
 
-background on the grants here: https://astralcodexten.substack.com/p/apply-for-an-acx-grant?s=r
+Background on the grants here:
+
+* https://astralcodexten.substack.com/p/apply-for-an-acx-grant
 
 ## 100: Tools For Protecting People’s Legacies After They Die
 
@@ -24,18 +26,18 @@ legacyproject@protonmail.com
 
 ***
 
-below are some of my thoughts. More later
+Below are some of my first reflections. More later.
 
 
 ## Possible Connections
 
-Is there a connection between the above text and one of these projects:
+Is there a connection between the above text and one of the following projects?
 
 * https://legacyproject.org/ ?
 * https://legacyproject.human.cornell.edu/
 * http://www.ucsflegacyproject.com/about
 
-Or many more
+Or many more?
 
 * https://www.google.com/search?q=legacy+project
 

@@ -55,3 +55,5 @@ There could be more:
 * Helping people of all ages records aspects of their lives without having to become hoarders of physical objects.
 * Creating new types of jobs relating to the discovery, triage and archiving of personal histories
 * Connecting the histories of a number of people observant of the many connections they have had collectively
+
+

@@ -1,8 +1,10 @@
 # Legacy Project
 
-The following text has been extracted from this link:
+The text in the following section has been extracted from this link:
 
 https://astralcodexten.substack.com/p/acx-grants-the-second-half
+
+background on the grants here: https://astralcodexten.substack.com/p/apply-for-an-acx-grant?s=r
 
 ## 100: Tools For Protecting People’s Legacies After They Die
 
@@ -19,6 +21,10 @@ Preserving personal legacies has value for the people whose legacy is preserved,
 Each of these five components might require a team of professionals. However, there is such a clear void here that even a proof of concept using simple tools would be a big improvement and demonstrate the value of further investment.
 
 legacyproject@protonmail.com
+
+***
+
+below are some of my thoughts. More later
 
 
 ## Possible Connections

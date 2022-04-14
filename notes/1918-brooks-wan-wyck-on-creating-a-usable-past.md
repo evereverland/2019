@@ -4,104 +4,14 @@ Word Count: 1,554
 
 Source: Van Wyck Brooks, “On Creating a Usable Past,” The Dial (April 11, 1918), pp. 337-341
 
-Unhappily, the spiritual welfare of this country depends altogether upon the fate of its
-creative minds. If they cannot grow and ripen, where are we going to get the new ideals, the finer
-attitudes, that we must get if we are ever to emerge from our existing travesty of a civilization?
-From this point of view our contemporary literature could hardly be in a graver state. We want
-bold ideas, and we have nuances. We want courage, and we have universal fear. We want
-individuality, and we have idiosyncrasy. We want vitality, and we have intellectualism. We want
-emblems of desire, and we have Niagaras of emotionality. We want expansion of soul, and we
-have an elephantiasis of the vocal organs. Why? Because we have no cultural economy, no
-abiding sense of spiritual values, no body of critical understanding? Of course; that is the burden
-of all our criticism. But these conditions result largely, I think, from another condition that is, in
-part at least, remediable. The present is a void, and the American writer floats in that void
-because the past that survives in the common mind of the present is a past without living value.
-But is this the only possible past? If we need another past so badly, is it inconceivable that we
-might discover one, that we might even invent one?
+Unhappily, the spiritual welfare of this country depends altogether upon the fate of its creative minds. If they cannot grow and ripen, where are we going to get the new ideals, the finer attitudes, that we must get if we are ever to emerge from our existing travesty of a civilization? From this point of view our contemporary literature could hardly be in a graver state. We want bold ideas, and we have nuances. We want courage, and we have universal fear. We want individuality, and we have idiosyncrasy. We want vitality, and we have intellectualism. We want emblems of desire, and we have Niagaras of emotionality. We want expansion of soul, and we have an elephantiasis of the vocal organs. Why? Because we have no cultural economy, no abiding sense of spiritual values, no body of critical understanding? Of course; that is the burden of all our criticism. But these conditions result largely, I think, from another condition that is, in part at least, remediable. The present is a void, and the American writer floats in that void because the past that survives in the common mind of the present is a past without living value. But is this the only possible past? If we need another past so badly, is it inconceivable that we might discover one, that we might even invent one?
 
-Discover, invent a usable past we certainly can, and that is what a vital criticism always
-does. The past that Carlyle put together for England would never have existed if Carlyle had
-been an American professor. And what about the past that Michelet, groping about in the depths
-of his own temperament, picked out for the France of his generation? We have had our historians,
-too, and they have held over the dark backward of time the divining-rods of their imagination
-and conjured out of it what they wanted and what their contemporaries wanted — Motley's great
-epic of the self-made man, for instance, which he called "The Rise of the Dutch Republic." The
-past is an inexhaustible storehouse of apt attitudes and adaptable ideals; it opens of itself at the
-touch of desire; it yields up, now this treasure, now that, to anyone who comes to it armed with a
-capacity for personal choices. If, then, we cannot use the past our professors offer us, is there any
-reason why we should not create others of our own? The grey conventional mind casts its
-shadow backward. But why should not the creative mind dispel that shadow with shafts of light?
+Discover, invent a usable past we certainly can, and that is what a vital criticism always does. The past that Carlyle put together for England would never have existed if Carlyle had been an American professor. And what about the past that Michelet, groping about in the depths of his own temperament, picked out for the France of his generation? We have had our historians, too, and they have held over the dark backward of time the divining-rods of their imagination and conjured out of it what they wanted and what their contemporaries wanted — Motley's great epic of the self-made man, for instance, which he called "The Rise of the Dutch Republic." The past is an inexhaustible storehouse of apt attitudes and adaptable ideals; it opens of itself at the touch of desire; it yields up, now this treasure, now that, to anyone who comes to it armed with a capacity for personal choices. If, then, we cannot use the past our professors offer us, is there any reason why we should not create others of our own? The grey conventional mind casts its shadow backward. But why should not the creative mind dispel that shadow with shafts of light?
 
-So far as our literature is concerned, the slightest acquaintance with other national points
-of view than our own is enough to show how many conceptions of it are not only possible but
-already exist as commonplaces in the mind of the world. Every people selects from the
-experience of every other people whatever contributes most vitally to its own development. The
-history of France that survives in the mind of Italy is totally different from the history of France
-that survives in the mind of England, and from this point of view there are just as many histories
-of America as there are nations to possess them. Go to England and you will discover that in
-English eyes "American literature" has become, while quite as complete an entity as it is with us,
-an altogether different one. You will find that an entire scheme of ideas and tendencies has
-survived there out of the American past to which the American academic point of view is wholly
-irrelevant. This, I say, is a commonplace to anyone whose mind has wandered even the shortest
-way from home, and to travel in one's imagination from country to country, from decade to
-decade, is to have this experience indefinitely multiplied. Englishmen will ask you why we
-Americans have so neglected Herman Melville that there is no biography of him. Russians will
-tell you that we never really understood the temperament of Jack London. And so on and so on,
-through all the ramifications of national psychology. By which I do not mean at all that we ought
-to cut our cloth to fit other people. I mean simply that we have every precedent for cutting it to
-fit ourselves. Presumably the orthodox interpreters of our literature imagine that they speak for
-the common reason of humankind. But evidently as regards modern literature that common
-reason is a very subtle and precarious thing, by no means in the possession of minds that
-consider it a moral duty to impose upon the world notions that have long since lost their sap. The
-world is far too rich to tolerate this. When Matthew Arnold once objected to Sainte-Beuve that
-he did not consider Lamartine an important writer, Sainte-Beuve replied, "Perhaps not, but he is
-important for us.” Only by the exercise of a little pragmatism of that kind, I think, can the past
-experience of our people be placed at the service of the future.
+So far as our literature is concerned, the slightest acquaintance with other national points of view than our own is enough to show how many conceptions of it are not only possible but already exist as commonplaces in the mind of the world. Every people selects from the experience of every other people whatever contributes most vitally to its own development. The history of France that survives in the mind of Italy is totally different from the history of France that survives in the mind of England, and from this point of view there are just as many histories of America as there are nations to possess them. Go to England and you will discover that in English eyes "American literature" has become, while quite as complete an entity as it is with us, an altogether different one. You will find that an entire scheme of ideas and tendencies has survived there out of the American past to which the American academic point of view is wholly irrelevant. This, I say, is a commonplace to anyone whose mind has wandered even the shortest way from home, and to travel in one's imagination from country to country, from decade to decade, is to have this experience indefinitely multiplied. Englishmen will ask you why we Americans have so neglected Herman Melville that there is no biography of him. Russians will tell you that we never really understood the temperament of Jack London. And so on and so on, through all the ramifications of national psychology. By which I do not mean at all that we ought to cut our cloth to fit other people. I mean simply that we have every precedent for cutting it to fit ourselves. Presumably the orthodox interpreters of our literature imagine that they speak for the common reason of humankind. But evidently as regards modern literature that common reason is a very subtle and precarious thing, by no means in the possession of minds that consider it a moral duty to impose upon the world notions that have long since lost their sap. The world is far too rich to tolerate this. When Matthew Arnold once objected to Sainte-Beuve that he did not consider Lamartine an important writer, Sainte-Beuve replied, "Perhaps not, but he is important for us.” Only by the exercise of a little pragmatism of that kind, I think, can the past experience of our people be placed at the service of the future.
 
-What is important for us? What, out of all the multifarious achievements and impulses
-and desires of the American literary mind, ought we to elect to remember? The more personally
-we answer this question, it seems to me, the more likely we are to get a vital order out of the
-anarchy of the present. For the impersonal way of answering it has been at least in part
-responsible for this anarchy, by severing the warm artery that ought to lead from the present back
-into the past. To approach our literature from the point of view not of the successful fact but of
-the creative impulse, is to throw it into an entirely new focus. What emerges then is the desire,
-the aspiration, the struggle, the tentative endeavor, and the appalling obstacles our life has placed
-before them. Which immediately casts over the spiritual history of America a significance that,
-for us, it has never had before.
+_What is important for us?_ What, out of all the multifarious achievements and impulses and desires of the American literary mind, ought we to elect to remember? The more personally we answer this question, it seems to me, the more likely we are to get a vital order out of the anarchy of the present. For the impersonal way of answering it has been at least in part responsible for this anarchy, by severing the warm artery that ought to lead from the present back into the past. To approach our literature from the point of view not of the successful fact but of the creative impulse, is to throw it into an entirely new focus. What emerges then is the desire, the aspiration, the struggle, the tentative endeavor, and the appalling obstacles our life has placed before them. Which immediately casts over the spiritual history of America a significance that, for us, it has never had before.
 
-Now it is impossible to make this approach without having some poignant experience of
-the shortcomings, the needs, and the difficulties of our literary life as it is now conditioned. Its
-anarchy is merely a compound of these, all of which are to be explained not so much by the
-absence of a cultural past as by the presence of a practical one. In particular, as I have said, this
-anarchy results from the sudden unbottling of elements that have had no opportunity to develop
-freely in the open. Why not trace those elements back, analyzing them on the way, and showing
-how they first manifested themselves, and why, and what repelled them? How many of Theodore
-Dreiser's defects, for example, are due to an environment that failed to produce the naturalistic
-mind until the rest of the world had outgrown it and given birth to a more advanced set of needs?
-And there is Vachel Lindsay. If he runs to sound and color in excess and for their sake voids
-himself within, how much is that because the life of a Middle Western town sets upon those
-things an altogether scandalous premium? Well, there you have two of the notorious difficulties
-of contemporary authorship; and for all that our successful tradition may say, difficulties like
-those have been the death of our creative life in the past. The point for us is that they have never
-prevented the creative impulse from being born. Look back and you will see, drifting in and out
-of the books of history, appearing and vanishing in the memoirs of more aggressive and more
-acceptable minds, all manner of queer geniuses, wraith-like personalities that have left behind
-them sometimes a fragment or so that has meaning for us now, more often a mere eccentric name.
-The creative past of this country is a limbo of the non-elect, the fathers and grandfathers of the
-talent of today. If they had had a little of the sun and rain that fell so abundantly upon the
-Goliaths of nineteenth-century philistinism, how much better conditioned would their
-descendants be!
+Now it is impossible to make this approach without having some poignant experience of the shortcomings, the needs, and the difficulties of our literary life as it is now conditioned. Its anarchy is merely a compound of these, all of which are to be explained not so much by the absence of a cultural past as by the presence of a practical one. In particular, as I have said, this anarchy results from the sudden unbottling of elements that have had no opportunity to develop freely in the open. Why not trace those elements back, analyzing them on the way, and showing how they first manifested themselves, and why, and what repelled them? How many of Theodore Dreiser's defects, for example, are due to an environment that failed to produce the naturalistic mind until the rest of the world had outgrown it and given birth to a more advanced set of needs? And there is Vachel Lindsay. If he runs to sound and color in excess and for their sake voids himself within, how much is that because the life of a Middle Western town sets upon those things an altogether scandalous premium? Well, there you have two of the notorious difficulties of contemporary authorship; and for all that our successful tradition may say, difficulties like those have been the death of our creative life in the past. The point for us is that they have never prevented the creative impulse from being born. Look back and you will see, drifting in and out of the books of history, appearing and vanishing in the memoirs of more aggressive and more acceptable minds, all manner of queer geniuses, wraith-like personalities that have left behind them sometimes a fragment or so that has meaning for us now, more often a mere eccentric name. The creative past of this country is a limbo of the non-elect, the fathers and grandfathers of the talent of today. If they had had a little of the sun and rain that fell so abundantly upon the Goliaths of nineteenth-century philistinism, how much better conditioned would their descendants be!
 
-The real task for the American literary historian, then, is not to seek for masterpieces—
-the few masterpieces are all too obvious—but for tendencies: Why did Ambrose Bierce go
-wrong? Why did Stephen Crane fail to acclimatize the modern method in American fiction
-twenty years ago? What became of Herman Melville? How did it happen that a mind capable of
-writing "The Story of a Country Town" should have turned up thirty years later with a book like
-"Success Easier Than Failure"? If we were able to answer the hundred and one questions of this
-sort that present themselves to every curious mind, we might throw an entirely new face not only
-over the past but over the present and the future also. Knowing that others have desired the
-things we desire and have encountered the same obstacles, and that in some degree time has
-begun to face those obstacles down and make the way straight for us, would not the creative
-forces of this country lose a little of the hectic individualism that keeps them from uniting against
-their common enemies? And would this not bring about, for the first time, that sense of
-brotherhood in effort and in aspiration which is the best promise of a national culture?
+The real task for the American literary historian, then, is not to seek for masterpieces — the few masterpieces are all too obvious—but for tendencies: Why did Ambrose Bierce go wrong? Why did Stephen Crane fail to acclimatize the modern method in American fiction twenty years ago? What became of Herman Melville? How did it happen that a mind capable of writing "The Story of a Country Town" should have turned up thirty years later with a book like "Success Easier Than Failure"? If we were able to answer the hundred and one questions of this sort that present themselves to every curious mind, we might throw an entirely new face not only over the past but over the present and the future also. Knowing that others have desired the things we desire and have encountered the same obstacles, and that in some degree time has begun to face those obstacles down and make the way straight for us, would not the creative forces of this country lose a little of the hectic individualism that keeps them from uniting against their common enemies? And would this not bring about, for the first time, that sense of brotherhood in effort and in aspiration which is the best promise of a national culture?

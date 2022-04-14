@@ -1,6 +1,8 @@
-# Memory and a usable past
+# Memory, history and a usable past
 
 ## Howard Zinn
+
+SC + TA: From "red diaper baby" to _eminence rouge_.
 
 * https://en.wikipedia.org/wiki/Howard_Zinn
 > Howard Zinn (August 24, 1922 – January 27, 2010) was an American historian, playwright, philosopher, socialist thinker and World War II veteran. He was chair of the history and social sciences department at Spelman College, and a political science professor at Boston University. Zinn wrote over 20 books, including his best-selling and influential _A People's History of the United States_ in 1980. In 2007, he published a version of it for younger readers, A Young People's History of the United States.
@@ -38,7 +40,28 @@ http://www.massobs.org.uk/
 
 ## People
 
+
+
+## Elizabeth Gurley Flynn
+
+* https://en.wikipedia.org/wiki/Elizabeth_Gurley_Flynn
+	* https://www.google.com/books/edition/Elizabeth_Gurley_Flynn/NVkeAQAAMAAJ
+	* https://search.lib.buffalo.edu/discovery/fulldisplay?docid=cdi_proquest_journals_303949789&context=PC&vid=01SUNY_BUF:everything&lang=en&search_scope=UBSUNYPLUS&adaptor=Primo%20Central&tab=UBSUNYPLUS&query=any,contains,Toll%20bridges%20New%20Hampshire%20Haverhill%20History&mode=basic
+
+### Emma Goldman
+
+* https://en.wikipedia.org/wiki/Emma_Goldman
+	* https://www.lib.berkeley.edu/goldman/pdfs/EG-AGuideToHerLife_RECONSTRUCTINGTHEDOCUMENTARYHISTORYOFAVIBRANTLIFE-EditorsEssay.pdf
+
+
+### more
+
+* https://en.wikipedia.org/wiki/Alexander_Berkman
 * https://en.wikipedia.org/wiki/Carlo_Tresca
+* https://en.wikipedia.org/wiki/Margaret_C._Anderson
+* https://www.britannica.com/contributor/David-P-Thelen/2937
+	* https://alliance.iu.edu/members/member/1142.html
+
 
 ## Terms
 

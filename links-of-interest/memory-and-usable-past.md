@@ -1,5 +1,8 @@
 # Memory, history and a usable past
 
+TA: _What I like by starting off with Wikipedia is that it is so easy to double click into many aspects of a topic in a matter of minutes. The speed helps create a broader perspective before the mind hardens your thought into the usual static, biased, simplistic memories._
+
+
 ## Howard Zinn
 
 SC + TA: From "red diaper baby" to _eminence rouge_.
@@ -12,10 +15,15 @@ SC + TA: From "red diaper baby" to _eminence rouge_.
 >
 >A People's History has been assigned as reading in many high schools and colleges across the United States. It has also resulted in a change in the focus of historical work, which now includes stories that previously were ignored. The book was a runner-up in 1980 for the National Book Award. It frequently has been revised, with the most recent edition covering events through 2005. In 2003, Zinn was awarded the Prix des Amis du Monde Diplomatique for the French version of this book _Une histoire populaire des États-Unis_. More than two million copies have been sold.
 
+See "Critical reception" https://en.wikipedia.org/wiki/A_People%27s_History_of_the_United_States#Critical_reception
+
 
 * https://www.zinnedproject.org/materials/peoples-history-of-the-united-states
 * https://www.howardzinn.org/collection/peoples-history/
 
+Online version
+
+* http://www.historyisaweapon.com/zinnapeopleshistory.html
 
 ## Usable Past
 
@@ -45,6 +53,15 @@ TA: _copyright date on the site is 2015 - not a good sign._
 > In The Splendid and the Vile, his new book about Winston Churchill, London, and The Blitz, Erik Larson uses many diaries and accounts from the archives of Mass Observation, described by Larson as “organization launched in Britain two years before the war that recruited hundreds of volunteers to keep daily diaries with the goal of helping sociologists better understand ordinary British life.”
 
 ![]( https://austinkleon.com/wp-content/uploads/2020/06/mass-observation.jpg )
+
+### Other mass observations
+
+* https://www.explordle.com/map/wor
+* phone only: https://www.bigo.tv/bigo_intro_m/en.html
+
+random street view
+
+* https://randomstreetview.com/
 
 ## People
 

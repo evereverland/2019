@@ -1,5 +1,7 @@
 # Van Wyck Brooks ~ “On Creating a Usable Past” ~ (1918)
 
+
+
 Word Count: 1,554
 
 Source: Van Wyck Brooks, “On Creating a Usable Past,” The Dial (April 11, 1918), pp. 337-341

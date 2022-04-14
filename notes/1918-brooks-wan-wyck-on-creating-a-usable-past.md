@@ -24,7 +24,7 @@ does. The past that Carlyle put together for England would never have existed if
 been an American professor. And what about the past that Michelet, groping about in the depths
 of his own temperament, picked out for the France of his generation? We have had our historians,
 too, and they have held over the dark backward of time the divining-rods of their imagination
-and conjured out of it what they wanted and what their contemporaries wanted—Motley's great
+and conjured out of it what they wanted and what their contemporaries wanted — Motley's great
 epic of the self-made man, for instance, which he called "The Rise of the Dutch Republic." The
 past is an inexhaustible storehouse of apt attitudes and adaptable ideals; it opens of itself at the
 touch of desire; it yields up, now this treasure, now that, to anyone who comes to it armed with a

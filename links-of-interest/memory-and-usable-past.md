@@ -60,17 +60,23 @@ TA: _copyright date on the site is 2015 - not a good sign._
 * https://en.wikipedia.org/wiki/Emma_Goldman
 	* https://www.lib.berkeley.edu/goldman/pdfs/EG-AGuideToHerLife_RECONSTRUCTINGTHEDOCUMENTARYHISTORYOFAVIBRANTLIFE-EditorsEssay.pdf
 
+### David P Thelen
+
+* https://www.britannica.com/contributor/David-P-Thelen/2937
+	* https://alliance.iu.edu/members/member/1142.html
+
+Memory and American History
+* https://www.jstor.org/stable/1908632
 
 ### more
 
 * https://en.wikipedia.org/wiki/Alexander_Berkman
 * https://en.wikipedia.org/wiki/Carlo_Tresca
 * https://en.wikipedia.org/wiki/Margaret_C._Anderson
-* https://www.britannica.com/contributor/David-P-Thelen/2937
-	* https://alliance.iu.edu/members/member/1142.html
 
 
 ## Terms
 
+* https://en.wikipedia.org/wiki/Red_diaper_baby
 * https://en.wikipedia.org/wiki/Category:Communist_terminology
 

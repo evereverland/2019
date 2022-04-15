@@ -38,7 +38,7 @@ Symposia. [Pragmatism and the Writing of History]( https://journals.openedition.
 
 [Fashioning History]( https://link.springer.com/book/10.1057/9780230617209 )
 
-
+[Self-fashioning]( https://literariness.org/2016/10/18/the-concept-of-self-fashioning-by-stephen-greenblatt/ )
 
 
 

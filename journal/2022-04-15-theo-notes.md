@@ -28,6 +28,17 @@
 * Becomes the overarching credo of EEL
 * Might include you DNA sequence
 
+## Journal in Google Docs
+
+* Stephen is getting up to speed with GitHub.
+* Therefore I am starting to copy our Google Docs file to EEL
+* Rational:
+	* Text files on GH are open source; Google Docs files are proprietary
+	* Anything in GH likely to last until th end of time
+	* Much easier to share files with the world
+
+
+
 
 
 

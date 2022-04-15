@@ -54,6 +54,13 @@ TA: _copyright date on the site is 2015 - not a good sign._
 
 ![]( https://austinkleon.com/wp-content/uploads/2020/06/mass-observation.jpg )
 
+
+Stephen points out that that there may be observations that surprise. For example: Some people found the infamous Battle of Britain as being a relief from the drudgery of daily life.
+
+Theo remembers that a memorable vignette of the life described in the _Grapes of Wrath_ is the joy of the travelers when at the evening camp fire there was a good guitar player - a "picker" not just a "strummer" - to sing with.
+
+
+
 ### Other mass observations
 
 * https://www.explordle.com/map/wor

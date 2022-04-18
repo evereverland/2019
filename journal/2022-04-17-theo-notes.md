@@ -9,7 +9,7 @@ See updated background or reference page on Markdown:
 
 ## "What is remembered lives"
 
-Stephen hear the quote in [Nomadland]( https://en.wikipedia.org/wiki/Nomadland_(film) )
+Stephen heard the quote in [Nomadland]( https://en.wikipedia.org/wiki/Nomadland_(film) )
 
 * https://xteri.me/2021/02/21/whats-remembered-lives-nomadland/
 
@@ -17,7 +17,7 @@ Stephen hear the quote in [Nomadland]( https://en.wikipedia.org/wiki/Nomadland_(
 
 Perhaps the quote is derived from this 2-19 book
 
-What Is Remembered Lives: Developing Relationships with Deities, Ancestors & the Fae Kindle Edition
+_What Is Remembered Lives: Developing Relationships with Deities, Ancestors & the Fae_
 
 * https://www.amazon.com/What-Remembered-Lives-Developing-Relationships-ebook/dp/B07MY93KM5?asin=B07MY93KM5&revisionId=2af0a7d7&format=1&depth=1
 

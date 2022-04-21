@@ -45,7 +45,7 @@ No mention
 
 Alternative alternatives
 
-What present might there be if the past wer changed? Example: Axis win WW
+What present might there be if the past were changed? Example: Axis win WWII
 
 What past could occur so that we arrive at the current present from a different start. Example: being born rich instead of poor yet having the same outcome.
 

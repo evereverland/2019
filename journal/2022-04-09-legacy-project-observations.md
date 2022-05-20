@@ -8,7 +8,7 @@
 
 Building web pages to help with gathering data and archiving is certainly doable
 
-On the other hand many people may prefer off-loading the task tp other. Why spend time documenting your life when you could have more fun just living your life.
+On the other hand, many people may prefer off-loading the task to others. Why spend time documenting your life when you could have more fun just living your life?
 
 Creating a new industry around this process may be more efficacious.
 

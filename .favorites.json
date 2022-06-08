@@ -1,0 +1,67 @@
+[
+    {
+        "type": "Group",
+        "name": "qdata",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "FakE5QgDKS4jrUqZ"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\0-to-do.md",
+        "parent_id": "FakE5QgDKS4jrUqZ",
+        "fsPath": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\0-to-do.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "oVZYT3SmKlF0yuif"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\1-health\\README.md",
+        "parent_id": "FakE5QgDKS4jrUqZ",
+        "fsPath": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\1-health\\README.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "o5PjkpBm2Krl6Rev",
+        "label": "health"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\0-me-admin\\README.md",
+        "parent_id": "FakE5QgDKS4jrUqZ",
+        "fsPath": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\0-me-admin\\README.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "FLDTvC1RJHcBqAya",
+        "label": "admin"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\3-coding\\README.md",
+        "parent_id": "FakE5QgDKS4jrUqZ",
+        "fsPath": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\3-coding\\README.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "8a31694QFdpKiuhW",
+        "label": "coding"
+    },
+    {
+        "type": "Group",
+        "name": "theo 2022",
+        "parent_id": null,
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "y1kxl2UOcPd9rvhR"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-2022\\pages\\README.md",
+        "parent_id": "y1kxl2UOcPd9rvhR",
+        "fsPath": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-2022\\pages\\README.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "0KOwPX6vFRnTsiAJ",
+        "label": "pages"
+    }
+]

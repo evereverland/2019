@@ -63,5 +63,15 @@
         "workspacePath": null,
         "id": "0KOwPX6vFRnTsiAJ",
         "label": "pages"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\3-heritage\\README.md",
+        "parent_id": "FakE5QgDKS4jrUqZ",
+        "fsPath": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\3-heritage\\README.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "aX9nWjvNOZ2QATq1",
+        "label": "heritage-rm"
     }
 ]

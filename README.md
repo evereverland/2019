@@ -3,6 +3,9 @@
 # EverEverLand Read Me
 
 
+_Mission: To enable individuals and families, using digital media, to knit together the threads of a life to preserve memories and artefacts for posterity. What is remembered, lives._
+
+
 ## What this website is about
 
 This website is about EverEverLand, a project created by and for people with the intention of helping themselves and others to archive public and personal data that may be of interest to future historians and future people in general.

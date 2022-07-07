@@ -1,10 +1,8 @@
-<span style=display:none; >[You are now in a GitLab source code view - click this link to view Read Me file as a web page]( https://evereverland.github.io/ "View file as a web page." ) </span>
+<span style="display:none;">[You are now in a GitLab source code view - click this link to view Read Me file as a web page](https://evereverland.github.io/ "View file as a web page.")</span>
 
 # EverEverLand Read Me
 
-
-_Mission: To enable individuals and families, using digital media, to knit together the threads of a life to preserve memories and artefacts for posterity. What is remembered, lives._
-
+*Mission: To enable individuals and families, using digital media, to knit together the threads of a life to preserve memories and artefacts for posterity. What is remembered, lives.*
 
 ## What this website is about
 
@@ -29,6 +27,6 @@ The goal is that all project members may be able to add and edit all the materia
 * Hosting for online scripts that may be of use or just for the fun of it
 * And any papers and documents that may be of interest to the project
 
-***
+- - -
 
-<center title="You have reached the end of the line" ><a title="Return to top" href="javascript:window.scrollTo(0,0);" class=aDingbat > ❧ </a></center>
+<a title="Return to top" class="aDingbat">❧</a>

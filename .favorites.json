@@ -18,26 +18,6 @@
     },
     {
         "type": "File",
-        "name": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\1-health\\README.md",
-        "parent_id": "FakE5QgDKS4jrUqZ",
-        "fsPath": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\1-health\\README.md",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "o5PjkpBm2Krl6Rev",
-        "label": "health"
-    },
-    {
-        "type": "File",
-        "name": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\0-me-admin\\README.md",
-        "parent_id": "FakE5QgDKS4jrUqZ",
-        "fsPath": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\0-me-admin\\README.md",
-        "workspaceRoot": null,
-        "workspacePath": null,
-        "id": "FLDTvC1RJHcBqAya",
-        "label": "admin"
-    },
-    {
-        "type": "File",
         "name": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\3-coding\\README.md",
         "parent_id": "FakE5QgDKS4jrUqZ",
         "fsPath": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\3-coding\\README.md",
@@ -73,5 +53,23 @@
         "workspacePath": null,
         "id": "aX9nWjvNOZ2QATq1",
         "label": "heritage-rm"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\apps\\trayo\\r-2022-07-04\\trayo.html",
+        "parent_id": "FakE5QgDKS4jrUqZ",
+        "fsPath": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\apps\\trayo\\r-2022-07-04\\trayo.html",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "jOZkgMtQdeC827qE"
+    },
+    {
+        "type": "File",
+        "name": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\1-health\\0-health-reference.md",
+        "parent_id": "FakE5QgDKS4jrUqZ",
+        "fsPath": "c:\\Users\\tarmo\\Dropbox\\Public\\git-repos\\theo-armour-qdata\\0-to-do\\1-health\\0-health-reference.md",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "V32xr6GjOLbZ95No"
     }
 ]

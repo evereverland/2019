@@ -15,7 +15,7 @@
 ## The message: Old things new homes
 
 * Do you want to live forever?
-* Do you want am after life?
+* Do you want an after life?
 * The Search for Eternal Life, through data collecting and tracking
 * Creating a system that helps people do the metadata work to make this process flow smoother
 *  Find new homes for your old things

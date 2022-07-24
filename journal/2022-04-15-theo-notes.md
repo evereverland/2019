@@ -37,10 +37,3 @@
 	* Anything in GH likely to last until th end of time
 	* Much easier to share files with the world
 
-
-
-
-
-
-
-

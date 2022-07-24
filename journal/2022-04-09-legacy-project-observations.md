@@ -1,5 +1,5 @@
 
-## Legacy Project Observations
+# Legacy Project Observations
 
 
 ## 1. simple tools for collecting the material

@@ -6,19 +6,19 @@
 * https://www.findagrave.com/memorial/112151576/barbara-armour
 * https://chicagotribune.newspapers.com/clip/34324626/armourbarbara-allison-death-details/
 * Born East Kilbrich, Scotland; Died in Charleston, South Carolina; Buried Chicago, Illinois
-	* http://lakecountyhistory.blogspot.com/2011/11/james-mckay-sheriff-and-mayor-of.html
-	> In 1847, James McKay married Margaret Allison
-	* US Cenus of 1850 lists BAA living in Waukegan
-	* John Armour is born 1851
-	* Armours had a summer house in Waukegan
+  * http://lakecountyhistory.blogspot.com/2011/11/james-mckay-sheriff-and-mayor-of.html
+ > In 1847, James McKay married Margaret Allison
+  * US Cenus of 1850 lists BAA living in Waukegan
+  * John Armour is born 1851
+  * Armours had a summer house in Waukegan
 * Lived at 1945 Prairie Avenue and 117 Lake Shore Drive in Chicago
-	* https://www.stcroixarchitecture.com/products/house-of-mrs-barbara-armour-117-lake-shore-drive-chicago-il-1896-francis-m-whitehouse
+  * https://www.stcroixarchitecture.com/products/house-of-mrs-barbara-armour-117-lake-shore-drive-chicago-il-1896-francis-m-whitehouse
 * Wife of [George Armour]( https://en.wikipedia.org/wiki/George_Armour )
-	* Built first grain elevators in Chicago
-	* President Chicago Board of Trade
-	* Established the first systems of commodity futures
-	* First president Chicago Art Institute
-	* https://www.wikitree.com/wiki/Armour-829
+  * Built first grain elevators in Chicago
+  * President Chicago Board of Trade
+  * Established the first systems of commodity futures
+  * First president Chicago Art Institute
+  * https://www.wikitree.com/wiki/Armour-829
 
 
 ## Theo Armour's Recollections
@@ -28,7 +28,7 @@ My great aunt Barbara Armour Lowrie - named after her grandmother - told me two 
 * Barbara was known as "Madam Armour" and the the other Armour (the meat-packing one) was know as "Mrs Armour".
 * Barbara had a pet canary that would ride along on the train of her dress
 
-I inherited a number of wrks from my Armour side that may have been acquired by George and Barbara - if not their descendants.
+I inherited a number of works from my Armour side that may have been acquired by George and Barbara - if not their descendants.
 
 Also
 
@@ -57,7 +57,7 @@ _Works that portray Barbara Allison Armour_
 * https://www.alma-tadema.org/
 * http://www.lawrencealmatadema.org/paintings/
 
-##  1865 ~ Portrait of Barbara Allison Armour
+## 1865 ~ Portrait of Barbara Allison Armour
 
 ![]( https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg/664px-1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg )
 
@@ -66,7 +66,7 @@ _Works that portray Barbara Allison Armour_
 * Dimensions: 24 x 17-3/4
 * Signed by the artist
 * Lavish wood frame with gold paint with initials "AT"
-	* Verbal offer in 1997 of $70,000 for just the frame from Madison Avenue frame dealer
+  * Verbal offer in 1997 of $70,000 for just the frame from Madison Avenue frame dealer
 * Receipt from artist fo 500 pounds sterling
 
 
@@ -116,8 +116,7 @@ Works portraying Barbara Allison Armour's son
 * Signed "G P A Healy"
 
 
-
-##  Unknown sculptor
+## Unknown sculptor
 
 bas relief
 
@@ -132,7 +131,6 @@ From newspaper clipping attached to back
 > This morning, John William Armour, son of George Armour, esq, in the 14th year of his age, this dear boy was long and invalid, often suffering acute pain; But he bore it all with patience and resignation. He had a beautiful face, sweet disposition and was singularly intelligent and refined. His conscious was alive to the demands of duty and we believe that in his heart was the right in the sight of God. Several since his father took him to Europe with the hope that change of climate would restore his health, but the hope was disappointed and he has just returned home to die. The time and place of the funeral will be duly announced in the papers.
 
 In pencil under the clipping: "Died May 16, 1865"
-
 
 
 ***

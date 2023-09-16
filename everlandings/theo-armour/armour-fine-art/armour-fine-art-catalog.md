@@ -81,7 +81,7 @@ _1890s-vincent-chevilliard-priests-on-hot-day.jpg_
 
 Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/barbara-allison-armour/README.md )
 
-<img src=" https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1865-gpa-healy-john-armour.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1865-gpa-healy-john-armour.jpg" style="width:300px;" >
 
 _John Armour_
 

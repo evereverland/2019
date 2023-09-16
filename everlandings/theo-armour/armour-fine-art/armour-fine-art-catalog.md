@@ -35,7 +35,7 @@ Portrait of Barbara Allison Armour
 
 Barbara Allison Armour ( 1826-1898)
 
-![]( https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg/664px-1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg )
+![]( https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1865-lawrence-alma-tadema-barbara-allison-armour.jpg )
 
 * https://commons.wikimedia.org/wiki/File:1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg
 
@@ -81,7 +81,7 @@ _1890s-vincent-chevilliard-priests-on-hot-day.jpg_
 
 Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/barbara-allison-armour/README.md )
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865-gpa-healy-john-armour.jpg" style="width:300px;" >
+<img src=" https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/t/1865-gpa-healy-john-armour.jpg" style="width:300px;" >
 
 _John Armour_
 
@@ -100,7 +100,7 @@ Location: bedroom
 
 Note that our version does not have stamps in margin and stamp at top is not in color. Therefore not likely to be from an early, quite valuable printing.
 
-<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1857-hiroshige-sudden-shower-over-bridge.jpg" style="width:300px;" >
+<img src=" https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1857-hiroshige-sudden-shower-over-bridge.jpg" style="width:300px;" >
 
 Media: Block print
 Dimensions: ~ 18 x 12
@@ -112,7 +112,7 @@ Location: hall
 * http://www.artnet.com/artists/max-moreau-2/2
 * http://wiki.cultured.com/people/Max_Moreau/
 
-<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1952-max-moreau-norman-armour.jpg" style="width:300px;" >
+<img src=" https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1952-max-moreau-norman-armour.jpg" style="width:300px;" >
 
 Norman Armour
 
@@ -157,7 +157,7 @@ https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi
 * https://www.invaluable.com/artist/pike-olive-znead3u17t/sold-at-auction-prices/
 * https://www.mutualart.com/Artist/Olive-Snell/FB5BA91B7AF18896
 
-<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1921-olive-snell-myra-koudachev-armour.jpg" style="width:300px;" >
+<img src=" https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1921-olive-snell-myra-koudachev-armour.jpg" style="width:300px;" >
 
 _Myra Kudashev Armour_
 
@@ -190,14 +190,14 @@ Location: hall
 
 ### 1894 ~ Mrs. Armour
 
-Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/2019/everlandings/theo-armour/barbara-allison-armour/README.md )
+Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-arbarbara-allison-armour/README.md )
 
 * https://www.artic.edu/artworks/55266/mrs-armour
 * http://www.zorninamerica.com/ZornandStGaudens.html
 * http://www.zorninamerica.com/Subpages/zia/Subjects/ZiaSubjects3.html
 * https://www.alamy.com/stock-photo-1894-barbara-allison-armour-etching-by-anders-zorn-142555685.html
 
-<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1894-anders-zorn-mrs-armour.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-ar/1894-anders-zorn-mrs-armour.jpg" style="width:300px;" >
 
 _Mrs. Armour_
 

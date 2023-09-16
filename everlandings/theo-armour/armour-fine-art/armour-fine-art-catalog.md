@@ -17,7 +17,7 @@ See [Armour Fine Art Manifest]( https://evereverland.github.io/2019/everlandings
 
 ## Sir Lawrence Alma-Tadema ( 1836-1912 )
 
-Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/2019/everlandings/theo-armour/barbara-allison-armour/README.md )
+Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/barbara-allison-armour/README.md )
 
 * https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema
 * https://www.britannica.com/biography/Lawrence-Alma-Tadema

@@ -8,7 +8,7 @@ File naming conventions
 * "1921~" = approximately that year
 * "1920s" = very approximately, that decade maybe
 
-See [Armour Fine Art Manifest]( #everlandings/theo-armour/armour-fine-art/2020-armour-fine-art-manifest.md )
+See [Armour Fine Art Manifest]( https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/2020-armour-fine-art-manifest.md )
 
 * Simple list of all items in collection with images, sizes and location.
 * Intended for use in obtaining moving and storage quotations.
@@ -17,7 +17,7 @@ See [Armour Fine Art Manifest]( #everlandings/theo-armour/armour-fine-art/2020-a
 
 ## Sir Lawrence Alma-Tadema ( 1836-1912 )
 
-Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/#everlandings/theo-armour/barbara-allison-armour/README.md )
+Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/2019/everlandings/theo-armour/barbara-allison-armour/README.md )
 
 * https://en.wikipedia.org/wiki/Lawrence_Alma-Tadema
 * https://www.britannica.com/biography/Lawrence-Alma-Tadema
@@ -52,14 +52,14 @@ Possible destination: Musée d'Orsay
 
 ### Priest Reading
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1890s-vincent-chevilliard-priest.jpg" width=300 >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1890s-vincent-chevilliard-priest.jpg" width=300 >
 _1890s-vincent-chevilliard-priest.jpg_
 
 Dimensions 15 x 10
 
 ### Priests on hot day
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1890s-vincent-chevilliard-priests-on-hot-day.jpg" width=300 >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1890s-vincent-chevilliard-priests-on-hot-day.jpg" width=300 >
 _1890s-vincent-chevilliard-priests-on-hot-day.jpg_
 
 
@@ -79,7 +79,7 @@ _1890s-vincent-chevilliard-priests-on-hot-day.jpg_
 
 * https://en.wikipedia.org/wiki/George_Peter_Alexander_Healy
 
-Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/#everlandings/theo-armour/barbara-allison-armour/README.md )
+Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/2019/everlandings/theo-armour/barbara-allison-armour/README.md )
 
 <img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865-gpa-healy-john-armour.jpg" style="width:300px;" >
 
@@ -100,7 +100,7 @@ Location: bedroom
 
 Note that our version does not have stamps in margin and stamp at top is not in color. Therefore not likely to be from an early, quite valuable printing.
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1857-hiroshige-sudden-shower-over-bridge.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1857-hiroshige-sudden-shower-over-bridge.jpg" style="width:300px;" >
 
 Media: Block print
 Dimensions: ~ 18 x 12
@@ -112,7 +112,7 @@ Location: hall
 * http://www.artnet.com/artists/max-moreau-2/2
 * http://wiki.cultured.com/people/Max_Moreau/
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1952-max-moreau-norman-armour.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1952-max-moreau-norman-armour.jpg" style="width:300px;" >
 
 Norman Armour
 
@@ -157,7 +157,7 @@ https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi
 * https://www.invaluable.com/artist/pike-olive-znead3u17t/sold-at-auction-prices/
 * https://www.mutualart.com/Artist/Olive-Snell/FB5BA91B7AF18896
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1921-olive-snell-myra-koudachev-armour.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1921-olive-snell-myra-koudachev-armour.jpg" style="width:300px;" >
 
 _Myra Kudashev Armour_
 
@@ -173,7 +173,7 @@ Location: bedroom
 * https://www.metmuseum.org/art/collection/search/372512
 * https://www.christies.com/lotfinder/Lot/james-abbott-mcneill-whistler-1834-1903-billingsgate-6020317-details.aspx
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1859-james-whistler-billingsgate.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1859-james-whistler-billingsgate.jpg" style="width:300px;" >
 
 Media: Etching
 Dimensions: 10 x 15
@@ -190,14 +190,14 @@ Location: hall
 
 ### 1894 ~ Mrs. Armour
 
-Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/#everlandings/theo-armour/barbara-allison-armour/README.md )
+Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/2019/everlandings/theo-armour/barbara-allison-armour/README.md )
 
 * https://www.artic.edu/artworks/55266/mrs-armour
 * http://www.zorninamerica.com/ZornandStGaudens.html
 * http://www.zorninamerica.com/Subpages/zia/Subjects/ZiaSubjects3.html
 * https://www.alamy.com/stock-photo-1894-barbara-allison-armour-etching-by-anders-zorn-142555685.html
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1894-anders-zorn-mrs-armour.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1894-anders-zorn-mrs-armour.jpg" style="width:300px;" >
 
 _Mrs. Armour_
 

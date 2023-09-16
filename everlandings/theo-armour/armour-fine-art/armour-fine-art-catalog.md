@@ -65,7 +65,7 @@ _1890s-vincent-chevilliard-priests-on-hot-day.jpg_
 
 ## Albrecht Dürer
 
-![]( 1514-albrecht-durer-five-saints.jpg )
+![]( https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1514-albrecht-durer-five-saints.jpg )
 
 * 1514 ~ https://en.wikipedia.org/wiki/File:61_The_Apostle_Paul.jpg
 * 1514 ~ https://en.wikipedia.org/wiki/File:62_The_Apostle_Thomas.jpg
@@ -79,7 +79,7 @@ _1890s-vincent-chevilliard-priests-on-hot-day.jpg_
 
 * https://en.wikipedia.org/wiki/George_Peter_Alexander_Healy
 
-Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/2019/everlandings/theo-armour/barbara-allison-armour/README.md )
+Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/barbara-allison-armour/README.md )
 
 <img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865-gpa-healy-john-armour.jpg" style="width:300px;" >
 

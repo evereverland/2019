@@ -148,7 +148,7 @@ https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi
 
 ### Plate VIII
 
-* https://commons.wikimedia.org/wiki/Category:Le_Carceri_d%27Invenzione#/media/File:Giovanni_Battista_Piranesi_-_Le_carceri_d'invenzione,_1750-3_(prancha_VIII).jpg
+* https://commons.wikimedia.org/wiki/Category:Le_Carceri_d%27Invenzione#/media/File:Giovanni_Battista_Piranesi_-_Le_carceri_d'invenzione,_1750-3_(prancha_VII).jpg
 
 
 ## Olive Snell

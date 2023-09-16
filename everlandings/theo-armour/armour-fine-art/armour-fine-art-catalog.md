@@ -197,7 +197,7 @@ Please see the page that describes this artist and also other works that relate 
 * http://www.zorninamerica.com/Subpages/zia/Subjects/ZiaSubjects3.html
 * https://www.alamy.com/stock-photo-1894-barbara-allison-armour-etching-by-anders-zorn-142555685.html
 
-<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-arts/1894-anders-zorn-mrs-armour.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1894-anders-zorn-mrs-armour.jpg" style="width:300px;" >
 
 _Mrs. Armour_
 

@@ -188,7 +188,7 @@ Location: hall
 * https://www.wikiart.org/en/anders-zorn
 * https://www.artic.edu/collection?artist_ids=Anders%20Zorn&page=3
 
-### 1894 ~ Mrs. Armour
+### 1894 ~ Mrs Armour
 
 Please see the page that describes this artist and also other works that relate to [Barbara Allison Armour]( https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/barbara-allison-armour/README.md )
 

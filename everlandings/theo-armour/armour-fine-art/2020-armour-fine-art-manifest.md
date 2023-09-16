@@ -15,7 +15,7 @@ Titling: Date of creation, artist, title of the work
 
 ## 1. ~ 1514-1524 ~ Albrecht Durer ~ Five Saints
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1514-albrecht-durer-five-saints.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1514-albrecht-durer-five-saints.jpg" style="width:300px;" >
 
 Media: Etching
 Dimensions: 8 x 30
@@ -23,7 +23,7 @@ Location: hall
 
 ## 2. ~ 1700s ~ Unknown ~ Venetian Fantasy 1
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1700s-unknown-venetian-fantasy-1.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1700s-unknown-venetian-fantasy-1.jpg" style="width:300px;" >
 
 Media: Oil on canvas
 Dimensions: 30 x 42

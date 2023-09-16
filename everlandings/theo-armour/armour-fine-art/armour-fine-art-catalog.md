@@ -100,7 +100,7 @@ Location: bedroom
 
 Note that our version does not have stamps in margin and stamp at top is not in color. Therefore not likely to be from an early, quite valuable printing.
 
-<img src=" https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1857-hiroshige-sudden-shower-over-bridge.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1857-hiroshige-sudden-shower-over-bridge.jpg" style="width:300px;" >
 
 Media: Block print
 Dimensions: ~ 18 x 12
@@ -112,7 +112,7 @@ Location: hall
 * http://www.artnet.com/artists/max-moreau-2/2
 * http://wiki.cultured.com/people/Max_Moreau/
 
-<img src=" https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1952-max-moreau-norman-armour.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1952-max-moreau-norman-armour.jpg" style="width:300px;" >
 
 Norman Armour
 
@@ -157,7 +157,7 @@ https://en.wikipedia.org/wiki/Giovanni_Battista_Piranesi
 * https://www.invaluable.com/artist/pike-olive-znead3u17t/sold-at-auction-prices/
 * https://www.mutualart.com/Artist/Olive-Snell/FB5BA91B7AF18896
 
-<img src=" https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1921-olive-snell-myra-koudachev-armour.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1921-olive-snell-myra-koudachev-armour.jpg" style="width:300px;" >
 
 _Myra Kudashev Armour_
 

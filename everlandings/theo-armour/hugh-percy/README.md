@@ -1,6 +1,6 @@
 ## Portrait of Hugh Percy, Second Duke of Northumberland
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1760~-gainsborough-dupont-hugh-percy.jpg" style="width:100%" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1760~-gainsborough-dupont-hugh-percy.jpg" style="width:100%" >
 
 Attributed to Gainsborough Dupont
 

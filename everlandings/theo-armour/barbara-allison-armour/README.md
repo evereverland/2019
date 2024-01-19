@@ -74,7 +74,7 @@ _Works that portray Barbara Allison Armour_
 
 ### Barbara Allison Armour
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1870~-unknown-barbara-allison-armour.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1870~-unknown-barbara-allison-armour.jpg" style="width:300px;" >
 
 Dimensions: 8 x 10
 
@@ -91,7 +91,7 @@ Dimensions: 8 x 10
 
 ### 1894 ~ Mrs. Armour
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1894-anders-zorn-mrs-armour.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1894-anders-zorn-mrs-armour.jpg" style="width:300px;" >
 
 * Dimensions: 10 x 15
 * https://www.artic.edu/artworks/55266/mrs-armour
@@ -110,7 +110,7 @@ Works portraying Barbara Allison Armour's son
 
 ### 1865 ~ John William Armour (1851-1865)
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865-gpa-healy-john-armour.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1865-gpa-healy-john-armour.jpg" style="width:300px;" >
 
 * Dimensions: 23 x 28
 * Signed "G P A Healy"
@@ -122,7 +122,7 @@ bas relief
 
 ### 1864~ John William Armour (1851-1865)
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1865~-unknown-john-william-armour.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1865~-unknown-john-william-armour.jpg" style="width:300px;" >
 
 Dimensions: 9 x 12
 
@@ -148,7 +148,7 @@ See: [Armour Fine Art Manifest]( #../armour-fine-art/2020-armour-fine-art-manife
 
 ### 1859 Billingsgate
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1859-james-whistler-billingsgate.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1859-james-whistler-billingsgate.jpg" style="width:300px;" >
 
 * https://www.metmuseum.org/art/collection/search/372512
 * https://www.christies.com/lotfinder/Lot/james-abbott-mcneill-whistler-1834-1903-billingsgate-6020317-details.aspx
@@ -161,7 +161,7 @@ Location: hall
 
 ## 1860s ~ Piazzetta in Venice
 
-<img src="https://evereverland.github.io/everlandings/theo-armour/armour-fine-art/1860s-g-guibas-piazzetta.jpg" style="width:300px;" >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/armour-fine-art/1860s-g-guibas-piazzetta.jpg" style="width:300px;" >
 
 Dimensions: 21-1/2" x 43-1/2"
 Location: living room

@@ -28,13 +28,13 @@ The following links will take you to an article on Pujya Bhai's life and teachin
 <mark>If your browser supports opening the file format, then the text will be displayed in your browser. Or if your browser does not support viewing the file format, then a dialog box will appear. The dialog box will let you select where to save the file on your device.</mark>
 
 Article in Microsoft Word DOCX format:
-[Pujya Bhai's life and teachings]( article-life-and-teachings/Pujya%20Bhai's%20Life%20and%20Teachings.docx )
+[Pujya Bhai's life and teachings]( https://evereverland.github.io/2019/#everlandings/pujya-bhai/article-life-and-teachings/Pujya%20Bhai's%20Life%20and%20Teachings.docx )
 
 Article in Adobe PDF format:
-[Pujya Bhai's life and teachings]( article-life-and-teachings/Pujya_Bhai's_%20Life_and_Teachings.pdf )
+[Pujya Bhai's life and teachings]( https://evereverland.github.io/2019/#everlandings/pujya-bhai/article-life-and-teachings/Pujya_Bhai's_%20Life_and_Teachings.pdf )
 
 The following link to an HTML version of the article you may read online
-[Pujya Bhai's life and teachings]( article-life-and-teachings/PujyaBhaisLifeandTeachings.html)
+[Pujya Bhai's life and teachings]( https://evereverland.github.io/2019/#everlandings/pujya-bhai/article-life-and-teachings/PujyaBhaisLifeandTeachings.html)
 
 
 ## Links of interest

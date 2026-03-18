@@ -3,7 +3,7 @@
 
 
 
-<img src="https://evereverland.github.io/2019/everlandings/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg" width=100% >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg width=100% >
 
 _Portrait of Elizabeth of Russia _
 

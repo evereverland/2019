@@ -3,7 +3,7 @@
 
 
 
-<img src="https://evereverland.github.io/2019/everlandings/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg width=100% >
+<img src="https://evereverland.github.io/2019/everlandings/theo-armour/elizabeth/images-elizabeth/elizabeth-full-1.jpg" width=100% >
 
 _Portrait of Elizabeth of Russia _
 
@@ -78,7 +78,7 @@ Tocqué portrait
 
 Full size
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Elizabeth_of_Russia_by_Louis_Tocque_%281756%29.jpeg/798px-Elizabeth_of_Russia_by_Louis_Tocque_%281756%29.jpeg" style=width:30%; >
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Elizabeth_of_Russia_by_Louis_Tocque_%281756%29.jpeg" style=width:30%; >
 
 Closeup detail
 
@@ -87,10 +87,10 @@ Closeup detail
 
 Copy of Tocqué portrait by Ivan Argunov
 
-* https://www.russianpaintings.net/articles/russian_fine_art/russian_artists/argunov_ivan_1729_1802_brief_biography
-* https://www.russianpaintings.net/articles/img/bio/argunov_ivan_02.jpg
+* https://en.wikipedia.org/wiki/Ivan_Argunov
+* https://upload.wikimedia.org/wikipedia/commons/d/d4/Elizabeth_of_Russia_by_I.Argunov_after_Toque_%281750-60s%2C_Ostankino%29.jpg
 
-<img src="https://www.russianpaintings.net/articles/img/bio/argunov_ivan_02.jpg" style=width:30%;  >
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Elizabeth_of_Russia_by_I.Argunov_after_Toque_%281750-60s%2C_Ostankino%29.jpg" style=width:30%;  >
 
 Copy of Tocqué portrait by Heinrich Bucholz
 
@@ -106,8 +106,9 @@ Copy of Tocqué portrait by Charles-André van Loo
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Carle_Vanloo%2C_Portrait_de_l%E2%80%99imp%C3%A9ratrice_%C3%89lisabeth_Petrovna_%281760%29.jpg" style=width:30%; >
 
-Copy of Tocqué p ortrait by Others
+Copy of Tocqué portrait by Others
 
+* https://commons.wikimedia.org/wiki/Category:Portrait_of_Elizabeth_of_Russia_(Tocqu%C3%A9)
 * https://commons.wikimedia.org/wiki/File:Pouchkine_-_Palais_Catherine-37.jpg
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Pouchkine_-_Palais_Catherine-37.jpg" style=width:30%;  >

@@ -1,12 +1,12 @@
 # Armour Fine Art Read Me
 
-## [Armour Fine Art Manifest]( https://evereverland.github.io/#everlandings/theo-armour/armour-fine-art/2020-armour-fine-art-manifest.md )
+## [Armour Fine Art Manifest]( https://evereverland.github.io/2019/#everlandings/theo-armour/armour-fine-art/2020-armour-fine-art-manifest.md )
 
 * Simple list of items with images, sizes and location
 * Created in order to obtain quotes from moving and storage contractors
 
 
-## [Armour Fine Art Catalog]( https://evereverland.github.io/#everlandings/theo-armour/armour-fine-art/armour-fine-art-catalog.md )
+## [Armour Fine Art Catalog]( https://evereverland.github.io/2019/#everlandings/theo-armour/armour-fine-art/armour-fine-art-catalog.md )
 
 A [_catalogue raisonné_]( https://en.wikipedia.org/wiki/Catalogue_raisonn%C3%A9 ) of the Armour fine art collection
 
@@ -25,4 +25,4 @@ A [_catalogue raisonné_]( https://en.wikipedia.org/wiki/Catalogue_raisonn%C3%A9
 
 ***
 
-<center title="You have reached the end of the line" ><a title="Return to top" href="javascript:window.scrollTo(0,0);" class=aDingbat > ❧ </a></center
+<center title="You have reached the end of the line" ><a title="Return to top" href="javascript:window.scrollTo(0,0);" class=aDingbat > ❧ </a></center>

@@ -59,7 +59,7 @@ _Works that portray Barbara Allison Armour_
 
 ## 1865 ~ Portrait of Barbara Allison Armour
 
-![]( https://commons.wikimedia.org/wiki/File:1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg )
+![](https://upload.wikimedia.org/wikipedia/commons/6/6b/1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original)
 
 * https://commons.wikimedia.org/wiki/File:1865-barbara-allison-armour-painted-by-sir-lawrence-alma-tadema.jpg
 

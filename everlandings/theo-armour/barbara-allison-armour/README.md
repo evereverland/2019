@@ -67,7 +67,7 @@ _Works that portray Barbara Allison Armour_
 * Signed by the artist
 * Lavish wood frame with gold paint with initials "AT"
   * Verbal offer in 1997 of $70,000 for just the frame from Madison Avenue frame dealer
-* Receipt from artist fo 500 pounds sterling
+* Receipt from the artist for 500 pounds sterling is in storage somewhere
 
 
 ## 1870s Unknown photographer
